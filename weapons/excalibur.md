@@ -73,5 +73,5 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/excalibur-skin-pixel-sword.png" width="64" alt=""><br>**Pixel Sword** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 300 Excalibur-Pixel Sword Skin Shard | 1,500 Excalibur-Pixel Sword Skin Shard |
-| <img src="../img/weapons/excalibur-skin-eternal-winter.png" width="64" alt=""><br>**Eternal Winter** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Eternal Winter Skin Shard | 1,250 Eternal Winter Skin Shard |
+| <img src="../img/weapons/excalibur-skin-pixel-sword.png" width="64" alt=""><br>**Pixel Sword** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 300 Excalibur-Pixel Sword Skin Shard | 150 Excalibur-Pixel Sword Skin Shard |
+| <img src="../img/weapons/excalibur-skin-eternal-winter.png" width="64" alt=""><br>**Eternal Winter** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Eternal Winter Skin Shard | 125 Eternal Winter Skin Shard |

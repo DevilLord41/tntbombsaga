@@ -72,4 +72,4 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/items/starry-sky-invitation.png" width="64" alt=""><br>**Starry Sky Invitation** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Torrent-Starry Sky Invitation Shards | 1,250 Torrent-Starry Sky Invitation Shards |
+| <img src="../img/items/starry-sky-invitation.png" width="64" alt=""><br>**Starry Sky Invitation** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Torrent-Starry Sky Invitation Shards | 125 Torrent-Starry Sky Invitation Shards |

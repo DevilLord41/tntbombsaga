@@ -72,4 +72,4 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/chicken-mines-skin-ocean-wave-duck.png" width="64" alt=""><br>**Ocean Wave Duck** | ATK +108<br>CRIT +49<br>DMG+ +47<br>Burst DMG+ +46 | 250 Chicken Mines-Ocean Wave Duck Skin Shard | 1,250 Chicken Mines-Ocean Wave Duck Skin Shard |
+| <img src="../img/weapons/chicken-mines-skin-ocean-wave-duck.png" width="64" alt=""><br>**Ocean Wave Duck** | ATK +108<br>CRIT +49<br>DMG+ +47<br>Burst DMG+ +46 | 250 Chicken Mines-Ocean Wave Duck Skin Shard | 125 Chicken Mines-Ocean Wave Duck Skin Shard |

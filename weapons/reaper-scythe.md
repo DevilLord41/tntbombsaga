@@ -72,4 +72,4 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/reaper-scythe-skin-dark-night-rose.png" width="64" alt=""><br>**Dark night rose** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Scythe - Night Rose Skin Shard | 1,250 Scythe - Night Rose Skin Shard |
+| <img src="../img/weapons/reaper-scythe-skin-dark-night-rose.png" width="64" alt=""><br>**Dark night rose** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Scythe - Night Rose Skin Shard | 125 Scythe - Night Rose Skin Shard |

@@ -72,4 +72,4 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/ion-cannon-skin-quantum-destiny.png" width="64" alt=""><br>**Quantum Destiny** | ATK +73<br>CRIT +48<br>DMG+ +45<br>Burst DMG+ +45 | 250 Ion-Quantum Destiny Skin Shard | 1,250 Ion-Quantum Destiny Skin Shard |
+| <img src="../img/weapons/ion-cannon-skin-quantum-destiny.png" width="64" alt=""><br>**Quantum Destiny** | ATK +73<br>CRIT +48<br>DMG+ +45<br>Burst DMG+ +45 | 250 Ion-Quantum Destiny Skin Shard | 125 Ion-Quantum Destiny Skin Shard |

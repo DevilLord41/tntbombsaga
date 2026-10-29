@@ -155,24 +155,24 @@ All 6 slots to level 3: **2,427 shards + 372,656 Artifact Essence** per weapon. 
 
 ## Skins (Conjure Artifact)
 
-- Conjure Rules:
 - Requires a S13 weapon to unlock Conjure.
 - Activate weapon skins using Skin Shards or Omni Skin Shards.
 - Activated skins provide attribute bonuses and special effects.
 - Advance skins to unlock phase effects.
 - Higher-tier skins have up to 4 special effects.
+- **Omni Skin Shard** can be used in place of a skin's own shards, for activating and for phases.
 
 | Skin | Weapon | Stats bonus | Activate | Each phase |
 |---|---|---|---|---|
-| <img src="img/weapons/ion-cannon-skin-quantum-destiny.png" width="48" alt=""> Quantum Destiny | [Ion Cannon](weapons/ion-cannon.html) | ATK +73, CRIT +48, DMG+ +45, Burst DMG+ +45 | 250 Ion-Quantum Destiny Skin Shard | 1,250 Ion-Quantum Destiny Skin Shard |
-| <img src="img/weapons/hell-skin-scarlet-purgatory.png" width="48" alt=""> Scarlet Purgatory | [Hell](weapons/hell.html) | ATK +97, CRIT +48, DMG+ +42, Burst DMG+ +41 | 250 Hell-Scarlet Purgatory Skin Shard | 1,250 Hell-Scarlet Purgatory Skin Shard |
-| <img src="img/weapons/troll-boomerang-skin-shining-feather.png" width="48" alt=""> Shining Feather | [Troll Boomerang](weapons/troll-boomerang.html) | ATK +101, CRIT +42, DMG+ +43, Burst DMG+ +46 | 250 Boomerang-Shining Feather Skin Shard | 1,250 Boomerang-Shining Feather Skin Shard |
-| <img src="img/weapons/chicken-mines-skin-ocean-wave-duck.png" width="48" alt=""> Ocean Wave Duck | [Chicken Mines](weapons/chicken-mines.html) | ATK +108, CRIT +49, DMG+ +47, Burst DMG+ +46 | 250 Chicken Mines-Ocean Wave Duck Skin Shard | 1,250 Chicken Mines-Ocean Wave Duck Skin Shard |
-| <img src="img/weapons/excalibur-skin-pixel-sword.png" width="48" alt=""> Pixel Sword | [Excalibur](weapons/excalibur.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 300 Excalibur-Pixel Sword Skin Shard | 1,500 Excalibur-Pixel Sword Skin Shard |
-| <img src="img/weapons/hell-skin-decimated.png" width="48" alt=""> Decimated | [Hell](weapons/hell.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 300 Hell-Decimated Skin Shard | 1,500 Hell-Decimated Skin Shard |
-| <img src="img/weapons/troll-boomerang-skin-freed.png" width="48" alt=""> Freed | [Troll Boomerang](weapons/troll-boomerang.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 300 Boomerang-Free Skin Shard | 1,500 Boomerang-Free Skin Shard |
-| <img src="img/weapons/reaper-scythe-skin-dark-night-rose.png" width="48" alt=""> Dark night rose | [Reaper Scythe](weapons/reaper-scythe.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Scythe - Night Rose Skin Shard | 1,250 Scythe - Night Rose Skin Shard |
-| <img src="img/items/starry-sky-invitation.png" width="48" alt=""> Starry Sky Invitation | [Torrent](weapons/torrent.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Torrent-Starry Sky Invitation Shards | 1,250 Torrent-Starry Sky Invitation Shards |
-| <img src="img/weapons/balrog-skin-fervent-blues.png" width="48" alt=""> Fervent Blues | [Balrog](weapons/balrog.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Fervent Blues Skin Shard | 1,250 Fervent Blues Skin Shard |
-| <img src="img/weapons/excalibur-skin-eternal-winter.png" width="48" alt=""> Eternal Winter | [Excalibur](weapons/excalibur.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Eternal Winter Skin Shard | 1,250 Eternal Winter Skin Shard |
-| <img src="img/weapons/g-mage-gatling-skin-star-whisper.png" width="48" alt=""> Star Whisper | [G Mage Gatling](weapons/g-mage-gatling.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 G Mage Gatling - Star Whisper Shard | 1,250 G Mage Gatling - Star Whisper Shard |
+| <img src="img/weapons/ion-cannon-skin-quantum-destiny.png" width="48" alt=""> Quantum Destiny | [Ion Cannon](weapons/ion-cannon.html) | ATK +73, CRIT +48, DMG+ +45, Burst DMG+ +45 | 250 Ion-Quantum Destiny Skin Shard | 125 Ion-Quantum Destiny Skin Shard |
+| <img src="img/weapons/hell-skin-scarlet-purgatory.png" width="48" alt=""> Scarlet Purgatory | [Hell](weapons/hell.html) | ATK +97, CRIT +48, DMG+ +42, Burst DMG+ +41 | 250 Hell-Scarlet Purgatory Skin Shard | 125 Hell-Scarlet Purgatory Skin Shard |
+| <img src="img/weapons/troll-boomerang-skin-shining-feather.png" width="48" alt=""> Shining Feather | [Troll Boomerang](weapons/troll-boomerang.html) | ATK +101, CRIT +42, DMG+ +43, Burst DMG+ +46 | 250 Boomerang-Shining Feather Skin Shard | 125 Boomerang-Shining Feather Skin Shard |
+| <img src="img/weapons/chicken-mines-skin-ocean-wave-duck.png" width="48" alt=""> Ocean Wave Duck | [Chicken Mines](weapons/chicken-mines.html) | ATK +108, CRIT +49, DMG+ +47, Burst DMG+ +46 | 250 Chicken Mines-Ocean Wave Duck Skin Shard | 125 Chicken Mines-Ocean Wave Duck Skin Shard |
+| <img src="img/weapons/excalibur-skin-pixel-sword.png" width="48" alt=""> Pixel Sword | [Excalibur](weapons/excalibur.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 300 Excalibur-Pixel Sword Skin Shard | 150 Excalibur-Pixel Sword Skin Shard |
+| <img src="img/weapons/hell-skin-decimated.png" width="48" alt=""> Decimated | [Hell](weapons/hell.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 300 Hell-Decimated Skin Shard | 150 Hell-Decimated Skin Shard |
+| <img src="img/weapons/troll-boomerang-skin-freed.png" width="48" alt=""> Freed | [Troll Boomerang](weapons/troll-boomerang.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 300 Boomerang-Free Skin Shard | 150 Boomerang-Free Skin Shard |
+| <img src="img/weapons/reaper-scythe-skin-dark-night-rose.png" width="48" alt=""> Dark night rose | [Reaper Scythe](weapons/reaper-scythe.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Scythe - Night Rose Skin Shard | 125 Scythe - Night Rose Skin Shard |
+| <img src="img/items/starry-sky-invitation.png" width="48" alt=""> Starry Sky Invitation | [Torrent](weapons/torrent.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Torrent-Starry Sky Invitation Shards | 125 Torrent-Starry Sky Invitation Shards |
+| <img src="img/weapons/balrog-skin-fervent-blues.png" width="48" alt=""> Fervent Blues | [Balrog](weapons/balrog.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Fervent Blues Skin Shard | 125 Fervent Blues Skin Shard |
+| <img src="img/weapons/excalibur-skin-eternal-winter.png" width="48" alt=""> Eternal Winter | [Excalibur](weapons/excalibur.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 Eternal Winter Skin Shard | 125 Eternal Winter Skin Shard |
+| <img src="img/weapons/g-mage-gatling-skin-star-whisper.png" width="48" alt=""> Star Whisper | [G Mage Gatling](weapons/g-mage-gatling.html) | ATK +111, CRIT +42, DMG+ +45, Burst DMG+ +41 | 250 G Mage Gatling - Star Whisper Shard | 125 G Mage Gatling - Star Whisper Shard |

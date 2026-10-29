@@ -72,5 +72,5 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/hell-skin-scarlet-purgatory.png" width="64" alt=""><br>**Scarlet Purgatory** | ATK +97<br>CRIT +48<br>DMG+ +42<br>Burst DMG+ +41 | 250 Hell-Scarlet Purgatory Skin Shard | 1,250 Hell-Scarlet Purgatory Skin Shard |
-| <img src="../img/weapons/hell-skin-decimated.png" width="64" alt=""><br>**Decimated** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 300 Hell-Decimated Skin Shard | 1,500 Hell-Decimated Skin Shard |
+| <img src="../img/weapons/hell-skin-scarlet-purgatory.png" width="64" alt=""><br>**Scarlet Purgatory** | ATK +97<br>CRIT +48<br>DMG+ +42<br>Burst DMG+ +41 | 250 Hell-Scarlet Purgatory Skin Shard | 125 Hell-Scarlet Purgatory Skin Shard |
+| <img src="../img/weapons/hell-skin-decimated.png" width="64" alt=""><br>**Decimated** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 300 Hell-Decimated Skin Shard | 150 Hell-Decimated Skin Shard |

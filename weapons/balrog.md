@@ -72,4 +72,4 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/balrog-skin-fervent-blues.png" width="64" alt=""><br>**Fervent Blues** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Fervent Blues Skin Shard | 1,250 Fervent Blues Skin Shard |
+| <img src="../img/weapons/balrog-skin-fervent-blues.png" width="64" alt=""><br>**Fervent Blues** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 Fervent Blues Skin Shard | 125 Fervent Blues Skin Shard |

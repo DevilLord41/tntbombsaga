@@ -72,5 +72,5 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/troll-boomerang-skin-shining-feather.png" width="64" alt=""><br>**Shining Feather** | ATK +101<br>CRIT +42<br>DMG+ +43<br>Burst DMG+ +46 | 250 Boomerang-Shining Feather Skin Shard | 1,250 Boomerang-Shining Feather Skin Shard |
-| <img src="../img/weapons/troll-boomerang-skin-freed.png" width="64" alt=""><br>**Freed** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 300 Boomerang-Free Skin Shard | 1,500 Boomerang-Free Skin Shard |
+| <img src="../img/weapons/troll-boomerang-skin-shining-feather.png" width="64" alt=""><br>**Shining Feather** | ATK +101<br>CRIT +42<br>DMG+ +43<br>Burst DMG+ +46 | 250 Boomerang-Shining Feather Skin Shard | 125 Boomerang-Shining Feather Skin Shard |
+| <img src="../img/weapons/troll-boomerang-skin-freed.png" width="64" alt=""><br>**Freed** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 300 Boomerang-Free Skin Shard | 150 Boomerang-Free Skin Shard |

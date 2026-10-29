@@ -72,4 +72,4 @@ Needs the weapon at S13. Each slot has 3 levels and is crafted in order; the val
 
 | Skin | Stats bonus | Activate | Each of 4 phases |
 |---|---|---|---|
-| <img src="../img/weapons/g-mage-gatling-skin-star-whisper.png" width="64" alt=""><br>**Star Whisper** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 G Mage Gatling - Star Whisper Shard | 1,250 G Mage Gatling - Star Whisper Shard |
+| <img src="../img/weapons/g-mage-gatling-skin-star-whisper.png" width="64" alt=""><br>**Star Whisper** | ATK +111<br>CRIT +42<br>DMG+ +45<br>Burst DMG+ +41 | 250 G Mage Gatling - Star Whisper Shard | 125 G Mage Gatling - Star Whisper Shard |

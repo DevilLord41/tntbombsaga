@@ -15,9 +15,20 @@
 // Honor calculator (Military rank page)
 .rank-calc {
   border: 1px solid #d0d7de; border-radius: 8px; padding: 14px 16px; margin: 12px 0 20px; background: #f6f8fa;
-  label { display: inline-block; margin: 0 18px 10px 0; font-weight: 600; }
-  select, input { display: block; margin-top: 4px; padding: 5px 8px; min-width: 190px; font: inherit; font-weight: 400;
-    border: 1px solid #d0d7de; border-radius: 6px; background: #fff; color: #24292f; }
+  .rc-field { display: inline-block; vertical-align: top; margin: 0 18px 10px 0; }
+  .rc-label { display: block; font-weight: 600; }
+  input, .rc-sel-btn { display: flex; align-items: center; gap: 8px; margin-top: 4px; padding: 4px 8px; min-width: 220px; min-height: 34px;
+    font: inherit; font-weight: 400; border: 1px solid #d0d7de; border-radius: 6px; background: #fff; color: #24292f; box-sizing: border-box; }
+  .rc-select { position: relative; }
+  .rc-sel-btn { width: 100%; cursor: pointer; text-align: left; }
+  .rc-caret { margin-left: auto; padding-left: 8px; }
+  .rc-sel-btn img, .rc-sel-list img { width: 24px; height: 24px; background: transparent; }
+  .rc-sel-list { position: absolute; z-index: 20; left: 0; right: 0; max-height: 330px; overflow-y: auto; margin: 2px 0 0; padding: 4px 0;
+    list-style: none; border: 1px solid #d0d7de; border-radius: 6px; background: #fff; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18); }
+  .rc-sel-list li { display: flex; align-items: center; gap: 8px; margin: 0; padding: 4px 10px; cursor: pointer; }
+  .rc-sel-list li.active { background: #ddf4ff; }
+  .rc-sel-list li[aria-selected="true"] { font-weight: 600; }
+  .rc-sel-list:focus { outline: none; }
   .rc-big { font-size: 1.25em; margin: 6px 0; }
   table { margin-top: 8px; }
 }
@@ -43,5 +54,6 @@ details ul { margin: 6px 0 10px; }
   .site-disclaimer { color: #8b949e; }
   #theme-toggle { border-color: #30363d; background: #21262d; color: #c9d1d9; }
   .rank-calc { border-color: #30363d; background: #161b22; }
-  .rank-calc select, .rank-calc input { border-color: #30363d; background: #0d1117; color: #c9d1d9; }
+  .rank-calc input, .rank-calc .rc-sel-btn, .rank-calc .rc-sel-list { border-color: #30363d; background: #0d1117; color: #c9d1d9; }
+  .rank-calc .rc-sel-list li.active { background: #1f2a37; }
 }

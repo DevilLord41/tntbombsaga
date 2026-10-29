@@ -16,9 +16,9 @@ title: Military rank
 Pick your current rank, type the Honor shown on your rank bar, and pick the rank you want to reach.
 
 <div class="rank-calc" id="rank-calc">
-<label>Current rank <select id="rc-cur"></select></label>
-<label>Honor on your rank bar <input id="rc-honor" type="number" min="0" step="1" value="0"></label>
-<label>Target rank <select id="rc-target"></select></label>
+<div class="rc-field"><span class="rc-label" id="rc-cur-label">Current rank</span><div class="rc-select" id="rc-cur"></div></div>
+<label class="rc-field"><span class="rc-label">Honor on your rank bar</span><input id="rc-honor" type="number" min="0" step="1" value="0"></label>
+<div class="rc-field"><span class="rc-label" id="rc-target-label">Target rank</span><div class="rc-select" id="rc-target"></div></div>
 <div id="rc-out"></div>
 </div>
 <script src="assets/js/rank-calc.js"></script>

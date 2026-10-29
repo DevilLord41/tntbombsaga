@@ -9,3 +9,4 @@ title: Home
 - [Pet equipment](pet-equipment.html): the SSS / Holy Ghost pet equipment sets, their stats at every level and the upgrade costs
 - [Pet combos](pet-combos.html): every pet combo, the pets it needs and its bonus
 - [Military rank](military-rank.html): every rank, the Honor and Diamonds to promote, an Honor calculator, badges, privileges and rank perks
+- [Weapons](weapons.html): every weapon, its S0 - S13 advance costs and stats, where to get its shards, Ultimate, Artifact slots, Horcrux and skins

@@ -89,7 +89,7 @@ title: "Immortal jewellery"
 - Where to Get: Team Expedition
 
 <a id="j-403185"></a>
-### <img src="../img/items/might-ares-s-wrath-epic.png" width="40" alt=""> Might: Ares's Wrath (Epic)
+### <img src="../img/items/might-ares-s-wrath-legendary.png" width="40" alt=""> Might: Ares's Wrath (Epic)
 
 - Quality: **Orange** · Score 3,440
 - Stats: CON 15,976 → **18,002** at 6★, PEN 6,292 → **7,087** at 6★, END 3,141 → **3,537** at 6★ (345,742 enchant EXP to 6★)
@@ -97,44 +97,44 @@ title: "Immortal jewellery"
 - **Craft Jewelry** (player Lv 28): 1 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 1 × <img src="../img/items/might-cursed-malice.png" width="24" alt=""> [Might: Cursed Malice (Legendary) +4](dragon.html#j-403132) + 2 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer + 1,000,000 Coins
 
 <a id="j-403186"></a>
-### <img src="../img/items/might-ares-s-wrath-epic.png" width="40" alt=""> Might: Ares's Wrath (Legendary)
+### <img src="../img/items/might-ares-s-wrath-legendary.png" width="40" alt=""> Might: Ares's Wrath (Legendary)
 
 - Quality: **Red** · Score 3,840
 - Stats: CON 18,182 → **20,488** at 6★, PEN 7,157 → **8,063** at 6★, END 3,572 → **4,023** at 6★ (449,465 enchant EXP to 6★)
 - Traits: **Prestige**: Grants the wearer 50 initial Rage in battle
-- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-epic.png" width="24" alt=""> [Might: Ares's Wrath (Epic)](immortal.html#j-403185), also using: 1 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 10 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 2 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-legendary.png" width="24" alt=""> [Might: Ares's Wrath (Epic)](immortal.html#j-403185), also using: 1 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 10 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 2 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
 
 <a id="j-403187"></a>
-### <img src="../img/items/might-ares-s-wrath-epic.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +1
+### <img src="../img/items/might-ares-s-wrath-legendary.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +1
 
 - Quality: **Red** · Score 4,440
 - Stats: CON 20,692 → **23,316** at 6★, PEN 8,143 → **9,174** at 6★, END 4,063 → **4,576** at 6★ (584,306 enchant EXP to 6★)
 - Traits: **Prestige**: Grants the wearer 50 initial Rage in battle
-- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-epic.png" width="24" alt=""> [Might: Ares's Wrath (Legendary)](immortal.html#j-403186), also using: 1 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 20 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-legendary.png" width="24" alt=""> [Might: Ares's Wrath (Legendary)](immortal.html#j-403186), also using: 1 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 20 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
 
 <a id="j-403188"></a>
-### <img src="../img/items/might-ares-s-wrath-epic.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +2
+### <img src="../img/items/might-ares-s-wrath-legendary.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +2
 
 - Quality: **Red** · Score 4,890
 - Stats: CON 23,549 → **26,537** at 6★, PEN 9,265 → **10,439** at 6★, END 4,621 → **5,205** at 6★ (759,598 enchant EXP to 6★)
 - Traits: **Prestige**: Grants the wearer 50 initial Rage in battle
-- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-epic.png" width="24" alt=""> [Might: Ares's Wrath (Legendary) +1](immortal.html#j-403187), also using: 2 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 3 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 30 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-legendary.png" width="24" alt=""> [Might: Ares's Wrath (Legendary) +1](immortal.html#j-403187), also using: 2 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 3 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 30 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
 
 <a id="j-403189"></a>
-### <img src="../img/items/might-ares-s-wrath-epic.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +3
+### <img src="../img/items/might-ares-s-wrath-legendary.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +3
 
 - Quality: **Red** · Score 5,380
 - Stats: CON 26,802 → **30,203** at 6★, PEN 10,543 → **11,880** at 6★, END 5,257 → **5,921** at 6★ (987,479 enchant EXP to 6★)
 - Traits: **Prestige**: Grants the wearer 50 initial Rage in battle
-- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-epic.png" width="24" alt=""> [Might: Ares's Wrath (Legendary) +2](immortal.html#j-403188), also using: 2 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 2 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 40 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-legendary.png" width="24" alt=""> [Might: Ares's Wrath (Legendary) +2](immortal.html#j-403188), also using: 2 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 2 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 40 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
 
 <a id="j-403190"></a>
-### <img src="../img/items/might-ares-s-wrath-epic.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +4
+### <img src="../img/items/might-ares-s-wrath-legendary.png" width="40" alt=""> Might: Ares's Wrath (Legendary) +4
 
 - Quality: **Red** · Score 6,030
 - Stats: CON 30,505 → **34,377** at 6★, PEN 11,998 → **13,516** at 6★, END 5,980 → **6,736** at 6★ (1,115,849 enchant EXP to 6★)
 - Traits: **Prestige**: Grants the wearer 50 initial Rage in battle
-- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-epic.png" width="24" alt=""> [Might: Ares's Wrath (Legendary) +3](immortal.html#j-403189), also using: 4 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 4 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 50 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/might-ares-s-wrath-legendary.png" width="24" alt=""> [Might: Ares's Wrath (Legendary) +3](immortal.html#j-403189), also using: 4 × <img src="../img/items/might-ares-s-wrath.png" width="24" alt=""> [Might: Ares's Wrath](immortal.html#j-403184) + 4 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 50 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
 
 ## Ornament
 
@@ -193,7 +193,7 @@ title: "Immortal jewellery"
 - Where to Get: Team Expedition
 
 <a id="j-403192"></a>
-### <img src="../img/items/wraith-skeleton-scale-epic.png" width="40" alt=""> Wraith: Skeleton Scale (Epic)
+### <img src="../img/items/wraith-skeleton-scale-legendary.png" width="40" alt=""> Wraith: Skeleton Scale (Epic)
 
 - Quality: **Orange** · Score 3,460
 - Stats: STR 5,914 → **6,662** at 6★, LUCK 9,134 → **10,292** at 6★, CON 12,049 → **13,576** at 6★ (265,956 enchant EXP to 6★)
@@ -201,44 +201,44 @@ title: "Immortal jewellery"
 - **Craft Jewelry** (player Lv 28): 1 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 1 × <img src="../img/items/wraith-silent-manuscript.png" width="24" alt=""> [Wraith: Silent Manuscript (Legendary) +4](dragon.html#j-403118) + 2 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer + 1,000,000 Coins
 
 <a id="j-403193"></a>
-### <img src="../img/items/wraith-skeleton-scale-epic.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary)
+### <img src="../img/items/wraith-skeleton-scale-legendary.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary)
 
 - Quality: **Red** · Score 3,860
 - Stats: STR 6,728 → **7,578** at 6★, LUCK 10,394 → **11,712** at 6★, CON 13,711 → **15,450** at 6★ (345,742 enchant EXP to 6★)
 - Traits: **Rattle**: When the wearer dies, restores 10% HP for allies and removes debuffs.
-- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-epic.png" width="24" alt=""> [Wraith: Skeleton Scale (Epic)](immortal.html#j-403192), also using: 1 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 10 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 2 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-legendary.png" width="24" alt=""> [Wraith: Skeleton Scale (Epic)](immortal.html#j-403192), also using: 1 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 10 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 2 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
 
 <a id="j-403194"></a>
-### <img src="../img/items/wraith-skeleton-scale-epic.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +1
+### <img src="../img/items/wraith-skeleton-scale-legendary.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +1
 
 - Quality: **Red** · Score 4,470
 - Stats: STR 7,653 → **8,622** at 6★, LUCK 11,829 → **13,328** at 6★, CON 15,604 → **17,582** at 6★ (449,465 enchant EXP to 6★)
 - Traits: **Rattle**: When the wearer dies, restores 10% HP for allies and removes debuffs.
-- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-epic.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary)](immortal.html#j-403193), also using: 1 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 20 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-legendary.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary)](immortal.html#j-403193), also using: 1 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 2 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 20 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
 
 <a id="j-403195"></a>
-### <img src="../img/items/wraith-skeleton-scale-epic.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +2
+### <img src="../img/items/wraith-skeleton-scale-legendary.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +2
 
 - Quality: **Red** · Score 4,910
 - Stats: STR 8,708 → **9,812** at 6★, LUCK 13,461 → **15,166** at 6★, CON 17,757 → **20,009** at 6★ (584,306 enchant EXP to 6★)
 - Traits: **Rattle**: When the wearer dies, restores 10% HP for allies and removes debuffs.
-- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-epic.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary) +1](immortal.html#j-403194), also using: 2 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 3 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 30 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-legendary.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary) +1](immortal.html#j-403194), also using: 2 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 3 × <img src="../img/items/elemental-gem.png" width="24" alt=""> Elemental Gem + 30 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/heroic-forge-hammer.png" width="24" alt=""> Heroic Forge Hammer
 
 <a id="j-403196"></a>
-### <img src="../img/items/wraith-skeleton-scale-epic.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +3
+### <img src="../img/items/wraith-skeleton-scale-legendary.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +3
 
 - Quality: **Red** · Score 5,400
 - Stats: STR 9,910 → **11,165** at 6★, LUCK 15,317 → **17,261** at 6★, CON 20,209 → **22,772** at 6★ (759,598 enchant EXP to 6★)
 - Traits: **Rattle**: When the wearer dies, restores 10% HP for allies and removes debuffs.
-- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-epic.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary) +2](immortal.html#j-403195), also using: 2 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 2 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 40 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-legendary.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary) +2](immortal.html#j-403195), also using: 2 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 2 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 40 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 5 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
 
 <a id="j-403197"></a>
-### <img src="../img/items/wraith-skeleton-scale-epic.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +4
+### <img src="../img/items/wraith-skeleton-scale-legendary.png" width="40" alt=""> Wraith: Skeleton Scale (Legendary) +4
 
 - Quality: **Red** · Score 5,870
 - Stats: STR 11,276 → **12,706** at 6★, LUCK 17,433 → **19,643** at 6★, CON 22,999 → **25,914** at 6★ (858,345 enchant EXP to 6★)
 - Traits: **Rattle**: When the wearer dies, restores 10% HP for allies and removes debuffs.
-- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-epic.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary) +3](immortal.html#j-403196), also using: 4 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 4 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 50 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
+- **Advance** (player Lv 28) from <img src="../img/items/wraith-skeleton-scale-legendary.png" width="24" alt=""> [Wraith: Skeleton Scale (Legendary) +3](immortal.html#j-403196), also using: 4 × <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> [Wraith: Skeleton Scale](immortal.html#j-403191) + 4 × <img src="../img/items/earth-s-core.png" width="24" alt=""> Earth's Core + 50 × <img src="../img/items/amethyst-2.png" width="24" alt=""> Amethyst + 10 × <img src="../img/items/epic-forge-hammer.png" width="24" alt=""> Epic Forge Hammer
 
 ## Materials
 

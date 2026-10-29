@@ -24,6 +24,15 @@ title: Jewellery
 <a class="wiki-card" href="jewellery/hades.html"><span class="wc-pic"><img src="img/items/hades-necklace.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Hades</span><span class="wc-text">15 pieces: recipes, stats and materials.</span></span></a>
 </div>
 
+## Might and Wraith
+
+Set-free chains through the tiers: **Might** for the Ring slot, **Wraith** for Backhand. Each step is crafted from the piece before it.
+
+<div class="wiki-grid">
+<a class="wiki-card" href="jewellery/might.html"><span class="wc-pic"><img src="img/items/might-ares-s-wrath-legendary.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Might</span><span class="wc-text">10 pieces from Fearless to Immortal: the crafting chain, stats and materials.</span></span></a>
+<a class="wiki-card" href="jewellery/wraith.html"><span class="wc-pic"><img src="img/items/wraith-skeleton-scale-legendary.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Wraith</span><span class="wc-text">10 pieces from Valor to Immortal: the crafting chain, stats and materials.</span></span></a>
+</div>
+
 ## Enchant stones
 
 | Stone | Enchant EXP | Where to get |

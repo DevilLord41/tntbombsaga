@@ -6,7 +6,7 @@ title: "Lost Battlefield"
 
 # Lost Battlefield
 
-
+<img src="../img/monsters/head-tec.png" width="160" alt="">
 
 Dangers were everywhere in Lost Battlefield. Be very careful!
 

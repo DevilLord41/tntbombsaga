@@ -21,7 +21,7 @@ Each entry costs the stage's own ticket. Clearing a stage unlocks the next one a
 <a class="wiki-card" href="#sky-9001201"><span class="wc-pic"><img src="img/pve/sky-snow-palace.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Snow Palace</span><span class="wc-text">Level 30, recommended BP 1,684,996.</span></span></a>
 <a class="wiki-card" href="#sky-9001301"><span class="wc-pic"><img src="img/pve/sky-shadowy-domain.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Shadowy Domain</span><span class="wc-text">Level 30, recommended BP 2,041,662.</span></span></a>
 <a class="wiki-card" href="#sky-9001401"><span class="wc-pic"><img src="img/pve/sky-sea-train.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Sea train</span><span class="wc-text">Level 30, recommended BP 2,540,550.</span></span></a>
-<a class="wiki-card" href="#sky-9001501"><span class="wc-pic"></span><span class="wc-body"><span class="wc-title">Lost Battlefield</span><span class="wc-text">Level 30, recommended BP 4,685,046.</span></span></a>
+<a class="wiki-card" href="#sky-9001501"><span class="wc-pic"><img src="img/monsters/head-tec.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Lost Battlefield</span><span class="wc-text">Level 30, recommended BP 4,685,046.</span></span></a>
 </div>
 
 <a id="sky-9000101"></a>
@@ -763,7 +763,7 @@ In the rough sea, a ghost train on the sea suddenly appeared. It takes an invita
 <a id="sky-9001501"></a>
 ## Lost Battlefield
 
-
+<img src="img/monsters/head-tec.png" width="120" alt="">
 
 It seemed as if the earth shook with the roar. The boss had finally come.
 

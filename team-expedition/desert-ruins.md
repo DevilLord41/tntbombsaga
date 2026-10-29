@@ -173,7 +173,7 @@ There was an ancient castle in the vast Desert Ruins, and the mysterious statues
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **938,415** · 3 normal, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/queen.png" width="40" alt=""> Queen · Queen · <img src="../img/monsters/pharaoh.png" width="40" alt=""> Pharaoh
+**Monsters:** <img src="../img/monsters/queen.png" width="40" alt=""> Queen · <img src="../img/monsters/pharaoh.png" width="40" alt=""> Pharaoh
 
 **HP:** not recorded yet
 
@@ -192,7 +192,7 @@ There was an ancient castle in the vast Desert Ruins, and the mysterious statues
 - Lose: Any player dies; Fight for over 40 Turns
 - Recommended BP: **957,480** · 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/queen.png" width="40" alt=""> Queen · <img src="../img/monsters/pharaoh.png" width="40" alt=""> Pharaoh · Queen
+**Monsters:** <img src="../img/monsters/pharaoh.png" width="40" alt=""> Pharaoh · <img src="../img/monsters/queen.png" width="40" alt=""> Queen
 
 **HP:** not recorded yet
 

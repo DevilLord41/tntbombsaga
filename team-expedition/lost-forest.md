@@ -92,7 +92,7 @@ title: "Lost Forest"
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **725,327** · 9 normal, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/kungfu-panda.png" width="40" alt=""> Kungfu Panda · <img src="../img/monsters/tutor.png" width="40" alt=""> Tutor
+**Monsters:** <img src="../img/monsters/tutor.png" width="40" alt=""> Tutor · <img src="../img/monsters/kungfu-panda.png" width="40" alt=""> Kungfu Panda
 
 **HP:** not recorded yet
 

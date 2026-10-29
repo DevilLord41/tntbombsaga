@@ -22,7 +22,7 @@ In celebration of the wine fest, the warriors have gathered in this pirate-theme
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **505,579** · 2 elite monster(s)
 
-**Monsters:** Destiny Card · Soul Card · Horoscope Card · <img src="../img/monsters/ghost-card-trieste.png" width="40" alt=""> Ghost Card.Trieste
+**Monsters:** <img src="../img/monsters/ghost-card-trieste.png" width="40" alt=""> Ghost Card.Trieste
 
 **HP:** not recorded yet
 
@@ -95,7 +95,7 @@ In celebration of the wine fest, the warriors have gathered in this pirate-theme
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **552,203** · 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/mad-love-dusta.png" width="40" alt=""> Mad Love.Dusta · <img src="../img/monsters/lover-tricia.png" width="40" alt=""> Lover.Tricia · Heart of Love
+**Monsters:** <img src="../img/monsters/mad-love-dusta.png" width="40" alt=""> Mad Love.Dusta · <img src="../img/monsters/lover-tricia.png" width="40" alt=""> Lover.Tricia
 
 **HP:** not recorded yet
 
@@ -114,7 +114,7 @@ In celebration of the wine fest, the warriors have gathered in this pirate-theme
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **572,539** · 3 elite monster(s)
 
-**Monsters:** Black Dragon · Pegasus · Ice Phoenix · Phoenix · Flame Dragon · <img src="../img/monsters/king-of-beasts-reksa.png" width="40" alt=""> King of Beasts.Reksa
+**Monsters:** <img src="../img/monsters/king-of-beasts-reksa.png" width="40" alt=""> King of Beasts.Reksa
 
 **HP:** not recorded yet
 
@@ -171,7 +171,7 @@ In celebration of the wine fest, the warriors have gathered in this pirate-theme
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **644,332** · 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/bad-omen-cicero.png" width="40" alt=""> Bad Omen.Cicero · Bad Omen.Cicero · Fright Box · Box
+**Monsters:** <img src="../img/monsters/bad-omen-cicero.png" width="40" alt=""> Bad Omen.Cicero
 
 **HP:** not recorded yet
 
@@ -190,7 +190,7 @@ In celebration of the wine fest, the warriors have gathered in this pirate-theme
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **644,332** · 3 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/conviction-thomas.png" width="40" alt=""> Conviction.Thomas · Lamp of Truth
+**Monsters:** <img src="../img/monsters/conviction-thomas.png" width="40" alt=""> Conviction.Thomas
 
 **HP:** not recorded yet
 

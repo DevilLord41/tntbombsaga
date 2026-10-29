@@ -22,7 +22,7 @@ The Demon Queen disappeared close to the Altar, as the ancient Spirits were woke
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **9,763** · 9 normal, 2 boss monster(s)
 
-**Monsters:** Forest Archer · Forest Warrior
+**Monsters:** Forest Warrior · Forest Archer
 
 **HP:** not recorded yet
 
@@ -41,7 +41,7 @@ The Demon Queen disappeared close to the Altar, as the ancient Spirits were woke
 - Lose: Allied Team Annihilated Turns > 100 Turns
 - Recommended BP: **11,132** · 3 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/forest-high-priest.png" width="40" alt=""> Forest High Priest · Mech Hedgehog · Lupine · Forest Warrior · Altar
+**Monsters:** Forest Warrior · Mech Hedgehog · <img src="../img/monsters/forest-high-priest.png" width="40" alt=""> Forest High Priest
 
 **HP:** not recorded yet
 
@@ -129,7 +129,7 @@ The Demon Queen disappeared close to the Altar, as the ancient Spirits were woke
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **15,979** · 9 normal, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/ancient-guardian.png" width="40" alt=""> Ancient Guardian · Rock Spirit
+**Monsters:** Rock Spirit · <img src="../img/monsters/ancient-guardian.png" width="40" alt=""> Ancient Guardian
 
 **HP:** Ancient Guardian 60,810 · total **60,810**
 

@@ -22,7 +22,7 @@ The Demon King's forces have entered the Battle Continent, waiting for the right
 - Lose: Allied Team Annihilated Turns > 50 Turns
 - Recommended BP: **40,362** · 10 normal, 1 boss monster(s)
 
-**Monsters:** Ghost King · Skeleton Specter · Skeleton Archer · Demon Guard
+**Monsters:** Skeleton Specter · Demon Guard · Ghost King
 
 **HP:** not recorded yet
 
@@ -104,7 +104,7 @@ The Demon King's forces have entered the Battle Continent, waiting for the right
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **52,791** · 3 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/demon-king.png" width="40" alt=""> Demon King · Demon Blades
+**Monsters:** <img src="../img/monsters/demon-king.png" width="40" alt=""> Demon King
 
 **HP:** not recorded yet
 
@@ -144,7 +144,7 @@ The Demon King's forces have entered the Battle Continent, waiting for the right
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **60,235** · 10 normal, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/demon-statue.png" width="40" alt=""> Demon Statue · Demon Commander · Demon Guard · <img src="../img/monsters/demon-commander.png" width="40" alt=""> Demon Commander
+**Monsters:** <img src="../img/monsters/demon-commander.png" width="40" alt=""> Demon Commander · Demon Guard · <img src="../img/monsters/demon-statue.png" width="40" alt=""> Demon Statue
 
 **HP:** Demon Commander 100,343, Demon Statue 236,916 · total **337,259**
 
@@ -167,7 +167,7 @@ The Demon King's forces have entered the Battle Continent, waiting for the right
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **67,671** · 3 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/demon-king.png" width="40" alt=""> Demon King · Demon Blades
+**Monsters:** <img src="../img/monsters/demon-king.png" width="40" alt=""> Demon King
 
 **HP:** Demon King 485,360 · total **485,360**
 

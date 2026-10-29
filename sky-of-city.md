@@ -37,7 +37,7 @@ Since the airship the SS Explorer got lost in a storm and discovered Sky of City
 - Defeat Guardian Swordsman Deron
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** Tacsy.Boulders · Rhine.Halut · Witch Qatar · Betty · <img src="img/monsters/guardian-swordsman-deron.png" width="40" alt=""> Guardian Swordsman.Deron · Tutor Lena
+**Monsters:** <img src="img/monsters/guardian-swordsman-deron.png" width="40" alt=""> Guardian Swordsman.Deron
 
 **HP:** not recorded yet
 
@@ -84,7 +84,7 @@ You have finally earned Deron's approval to go to the depth. But all that can be
 - Defeat Evil Priest
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/flame-priest.png" width="40" alt=""> Flame Priest · <img src="img/monsters/frost-priest.png" width="40" alt=""> Frost Priest · <img src="img/monsters/forest-high-priest.png" width="40" alt=""> Forest High Priest · Frozen Iceberg · Wildfire Spirit · <img src="img/monsters/evil-priest.png" width="40" alt=""> Evil Priest · Flame Trap · Frost Trap · Shadow Flame · Shadow Orb
+**Monsters:** <img src="img/monsters/frost-priest.png" width="40" alt=""> Frost Priest · <img src="img/monsters/forest-high-priest.png" width="40" alt=""> Forest High Priest · <img src="img/monsters/evil-priest.png" width="40" alt=""> Evil Priest
 
 **HP:** not recorded yet
 
@@ -134,7 +134,7 @@ The mist converges again, guiding you to a ghostly castle. A chilling aura hits 
 - Defeat Reaper
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** Staff · Bow · Axe · <img src="img/monsters/ghost-king.png" width="40" alt=""> Ghost King · <img src="img/monsters/evil-reaper.png" width="40" alt=""> Reaper · <img src="img/monsters/skeleton-king.png" width="40" alt=""> Skeleton King · Blackhole
+**Monsters:** <img src="img/monsters/skeleton-king.png" width="40" alt=""> Skeleton King · <img src="img/monsters/ghost-king.png" width="40" alt=""> Ghost King · <img src="img/monsters/evil-reaper.png" width="40" alt=""> Reaper
 
 **HP:** not recorded yet
 
@@ -184,7 +184,7 @@ You seem to have entered into a special area, with none stop noises of machinery
 - Defeat Goblin Doctor
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/goblin-aircraft.png" width="40" alt=""> Ace Fighter · Warning Sign · Walking Bomb · <img src="img/monsters/goblin-stomper.png" width="40" alt=""> Battle Mecha T800 · Battle Tank
+**Monsters:** Walking Bomb · <img src="img/monsters/goblin-aircraft.png" width="40" alt=""> Ace Fighter · <img src="img/monsters/goblin-stomper.png" width="40" alt=""> Battle Mecha T800
 
 **HP:** not recorded yet
 
@@ -234,7 +234,7 @@ A chaotic place, an ancient place, a mysterious place...This was all caused by t
 - Completely Defeat Demon Hunter
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** Demon R-Blade · Demon L-Blade · <img src="img/monsters/demon-king.png" width="40" alt=""> Demon King · Demon L-Eye · Demon R-Eye · Demon Stare · Demon R-Blade · Demon L-Blade
+**Monsters:** Demon R-Blade · Demon L-Blade · <img src="img/monsters/demon-king.png" width="40" alt=""> Demon King
 
 **HP:** not recorded yet
 
@@ -284,7 +284,7 @@ The Dragon Nest is strewn with the bones of dragons, it seems the heroes have be
 - Defeat the Deathwing Black Dragon
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/death-wing-black-dragon.png" width="40" alt=""> Death Wing.Black Dragon · Burning Rock · Lava Mob
+**Monsters:** Lava Mob · Burning Rock
 
 **HP:** not recorded yet
 
@@ -496,7 +496,7 @@ The ancient Desert Queen had been resurrected, a human sacrifice was underway
 - Pharaoh and Queen died at the same time
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/queen.png" width="40" alt=""> Queen · <img src="img/monsters/pharaoh.png" width="40" alt=""> Pharaoh
+**Monsters:** <img src="img/monsters/pharaoh.png" width="40" alt=""> Pharaoh
 
 **HP:** not recorded yet
 
@@ -661,7 +661,7 @@ Dark forces kept invading the Darkest Realm
 - Defeat 4 Emperor Dragons
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/toxin-dragon.png" width="40" alt=""> Viper Dragon (4 Emperor Dragons) · <img src="img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon (4 Emperor Dragons) · <img src="img/monsters/lava-dragon.png" width="40" alt=""> Flame Dragon (4 Emperor Dragons) · <img src="img/monsters/holy-dragon.png" width="40" alt=""> Holy Dragon (4 Emperor Dragons) · Toxic Gas · Acid Rain · Hellfire · White Cave
+**Monsters:** <img src="img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon (4 Emperor Dragons) · <img src="img/monsters/lava-dragon.png" width="40" alt=""> Flame Dragon (4 Emperor Dragons) · <img src="img/monsters/holy-dragon.png" width="40" alt=""> Holy Dragon (4 Emperor Dragons)
 
 **HP:** not recorded yet
 
@@ -716,7 +716,7 @@ In the rough sea, a ghost train on the sea suddenly appeared. It takes an invita
 - Defeat Captain Crocodile
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/captain-crocodile.png" width="40" alt=""> Captain Crocodile · <img src="img/monsters/crocodile-warrior.png" width="40" alt=""> Crocodile Warrior · The weather · <img src="img/monsters/efreet.png" width="40" alt=""> Efreet
+**Monsters:** <img src="img/monsters/captain-crocodile.png" width="40" alt=""> Captain Crocodile · <img src="img/monsters/crocodile-warrior.png" width="40" alt=""> Crocodile Warrior
 
 **HP:** not recorded yet
 
@@ -773,7 +773,7 @@ It seemed as if the earth shook with the roar. The boss had finally come.
 - Defeat Head Tec
 - Lose: Allied Team Annihilated Number of Turns >40
 
-**Monsters:** <img src="img/monsters/judge.png" width="40" alt=""> Judge · Exploit Weakness · <img src="img/monsters/head-tec.png" width="40" alt=""> Head Tec · Energy Ball
+**Monsters:** <img src="img/monsters/judge.png" width="40" alt=""> Judge · <img src="img/monsters/head-tec.png" width="40" alt=""> Head Tec
 
 **HP:** not recorded yet
 

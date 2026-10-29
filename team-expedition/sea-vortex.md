@@ -91,7 +91,7 @@ A mysterious whirlpool has suddenly appeared at sea, cutting off the sailing rou
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **385,289** · 6 normal, 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/hermit-crab-king.png" width="40" alt=""> Hermit Crab King · Hermit Crab
+**Monsters:** Hermit Crab · <img src="../img/monsters/hermit-crab-king.png" width="40" alt=""> Hermit Crab King
 
 **HP:** not recorded yet
 
@@ -160,7 +160,7 @@ A mysterious whirlpool has suddenly appeared at sea, cutting off the sailing rou
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **445,864** · 6 normal, 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/hermit-crab-king.png" width="40" alt=""> Hermit Crab King · Hermit Crab
+**Monsters:** Hermit Crab · <img src="../img/monsters/hermit-crab-king.png" width="40" alt=""> Hermit Crab King
 
 **HP:** not recorded yet
 

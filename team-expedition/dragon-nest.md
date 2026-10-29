@@ -22,7 +22,7 @@ There's a huge opening in the side of the cliff, could this be the entrance into
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **241,112** · 5 normal, 3 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/life-control-red-dragon.png" width="40" alt=""> Life Control.Red Dragon · Life Guard.Green Dragon · <img src="../img/monsters/life-guard-green-dragon.png" width="40" alt=""> Life Guard.Green Dragon
+**Monsters:** <img src="../img/monsters/life-control-red-dragon.png" width="40" alt=""> Life Control.Red Dragon · <img src="../img/monsters/life-guard-green-dragon.png" width="40" alt=""> Life Guard.Green Dragon
 
 **HP:** not recorded yet
 
@@ -108,7 +108,7 @@ There's a huge opening in the side of the cliff, could this be the entrance into
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **266,830** · 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/emerald-dream-blue-dragon.png" width="40" alt=""> Emerald Dream.Blue Dragon · Xin Mo
+**Monsters:** <img src="../img/monsters/emerald-dream-blue-dragon.png" width="40" alt=""> Emerald Dream.Blue Dragon
 
 **HP:** not recorded yet
 
@@ -175,7 +175,7 @@ There's a huge opening in the side of the cliff, could this be the entrance into
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **294,310** · 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/death-wing-black-dragon.png" width="40" alt=""> Death Wing.Black Dragon · Lava Mob · Burning Rock
+**Monsters:** Lava Mob · Burning Rock
 
 **HP:** not recorded yet
 

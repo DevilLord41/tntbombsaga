@@ -22,7 +22,7 @@ Fight to the death with the Goblin Doctors who have appeared at Goblin Port.
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **82,825** · 11 normal, 1 boss monster(s)
 
-**Monsters:** Goblin Gunner · Lava Warrior · Goblin Slave · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
+**Monsters:** Goblin Gunner · Lava Warrior · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
 
 **HP:** not recorded yet
 
@@ -41,7 +41,7 @@ Fight to the death with the Goblin Doctors who have appeared at Goblin Port.
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **89,481** · 2 normal, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · Lava Warrior · Demon Queen · Goblin Gunner
+**Monsters:** Goblin Gunner · Lava Warrior · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
 
 **HP:** not recorded yet
 
@@ -86,7 +86,7 @@ Fight to the death with the Goblin Doctors who have appeared at Goblin Port.
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **109,215** · 11 normal, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · Lava Warrior · Demon Queen · <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant
+**Monsters:** <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · Lava Warrior · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
 
 **HP:** not recorded yet
 
@@ -105,7 +105,7 @@ Fight to the death with the Goblin Doctors who have appeared at Goblin Port.
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **112,220** · 2 normal, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · Coin · Lava Warrior · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
+**Monsters:** <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · Lava Warrior · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
 
 **HP:** not recorded yet
 
@@ -150,7 +150,7 @@ Fight to the death with the Goblin Doctors who have appeared at Goblin Port.
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **133,874** · 11 normal, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · Coin · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-marshal.png" width="40" alt=""> Goblin Marshal
+**Monsters:** <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-marshal.png" width="40" alt=""> Goblin Marshal
 
 **HP:** Goblin Merchant 679,454 · total **679,454**
 
@@ -169,7 +169,7 @@ Fight to the death with the Goblin Doctors who have appeared at Goblin Port.
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **140,245** · 2 normal, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-marshal.png" width="40" alt=""> Goblin Marshal · Goblin Doctor · Green Circle · Red Circle · <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
+**Monsters:** <img src="../img/monsters/goblin-merchant.png" width="40" alt=""> Goblin Merchant · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-marshal.png" width="40" alt=""> Goblin Marshal
 
 **HP:** Goblin Doctor 9,633, Goblin Marshal 931,565, Green Circle 10,293, Red Circle 10,293 · total **961,784**
 

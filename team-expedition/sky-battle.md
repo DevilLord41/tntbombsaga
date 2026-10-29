@@ -22,7 +22,7 @@ The Goblins will soon escape on their Goblin Airship. Stop them!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **162,807** · 11 normal, 2 boss monster(s)
 
-**Monsters:** Goblin Tank · Goblin Gunner · Goblin Slave
+**Monsters:** Goblin Gunner · Goblin Tank
 
 **HP:** not recorded yet
 
@@ -65,7 +65,7 @@ The Goblins will soon escape on their Goblin Airship. Stop them!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **164,655** · 4 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** Goblin Tank · <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft
+**Monsters:** Goblin Tank
 
 **HP:** not recorded yet
 
@@ -111,7 +111,7 @@ The Goblins will soon escape on their Goblin Airship. Stop them!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **182,651** · 11 normal, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft · Walking Bomb · <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
+**Monsters:** Walking Bomb · <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft · <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper
 
 **HP:** not recorded yet
 
@@ -130,7 +130,7 @@ The Goblins will soon escape on their Goblin Airship. Stop them!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **184,732** · 4 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor
+**Monsters:** <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper
 
 **HP:** not recorded yet
 
@@ -178,7 +178,7 @@ The Goblins will soon escape on their Goblin Airship. Stop them!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **212,063** · 11 normal, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft · <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper
+**Monsters:** <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper
 
 **HP:** not recorded yet
 
@@ -197,7 +197,7 @@ The Goblins will soon escape on their Goblin Airship. Stop them!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **215,413** · 4 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft · <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper · Walking Bomb
+**Monsters:** <img src="../img/monsters/goblin-aircraft.png" width="40" alt=""> Goblin Aircraft · <img src="../img/monsters/goblin-doctor.png" width="40" alt=""> Goblin Doctor · <img src="../img/monsters/goblin-stomper.png" width="40" alt=""> Goblin Stomper
 
 **HP:** not recorded yet
 

@@ -22,7 +22,7 @@ At the ruins of a once-thriving forest city, a mysterious force suddenly transpo
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **2,894** · 10 normal, 1 boss monster(s)
 
-**Monsters:** Bush Mage · Bush Mob
+**Monsters:** Bush Mob · Bush Mage
 
 **HP:** not recorded yet
 
@@ -41,7 +41,7 @@ At the ruins of a once-thriving forest city, a mysterious force suddenly transpo
 - Lose: Allied Team Annihilated Turns > 100 Turns
 - Recommended BP: **4,852** · 2 normal, 1 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/ancient-stomper.png" width="40" alt=""> Ancient Stomper · Bush Mob
+**Monsters:** Bush Mob · <img src="../img/monsters/ancient-stomper.png" width="40" alt=""> Ancient Stomper
 
 **HP:** not recorded yet
 
@@ -73,7 +73,7 @@ At the ruins of a once-thriving forest city, a mysterious force suddenly transpo
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **6,892** · 10 normal, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/ancient-stomper.png" width="40" alt=""> Ancient Stomper · Bush Mage
+**Monsters:** Bush Mage · <img src="../img/monsters/ancient-stomper.png" width="40" alt=""> Ancient Stomper
 
 **HP:** Ancient Stomper 9,070, Bush Mage 3,279 (x2) · total **15,628**
 

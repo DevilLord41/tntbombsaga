@@ -172,7 +172,7 @@ title: "Snow Castle"
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **1,535,282** · 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/snowman-guard.png" width="40" alt=""> Snowman Guard · <img src="../img/monsters/snow-field-guardian.png" width="40" alt=""> Snow Field Guardian
+**Monsters:** <img src="../img/monsters/snow-field-guardian.png" width="40" alt=""> Snow Field Guardian · <img src="../img/monsters/snowman-guard.png" width="40" alt=""> Snowman Guard
 
 **HP:** not recorded yet
 

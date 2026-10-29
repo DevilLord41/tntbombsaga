@@ -22,7 +22,7 @@ The heroes discover a castle in the dark forest, it must have something to do wi
 - Lose: Allied Team Annihilated Turns > 50 Turns
 - Recommended BP: **20,140** · 2 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/dark-gate.png" width="40" alt=""> Dark Gate · Ghost King · Skeleton Warrior · Skeleton Archer · Skeleton Specter
+**Monsters:** Skeleton Warrior · Skeleton Archer · Ghost King
 
 **HP:** not recorded yet
 
@@ -81,7 +81,7 @@ The heroes discover a castle in the dark forest, it must have something to do wi
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **25,653** · 2 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/ghost-king.png" width="40" alt=""> Ghost King · Ghost King · <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Evil Reaper
+**Monsters:** Ghost King · <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Evil Reaper
 
 **HP:** not recorded yet
 
@@ -101,7 +101,7 @@ The heroes discover a castle in the dark forest, it must have something to do wi
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **26,966** · 2 elite, 2 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Grim Reaper · <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Evil Reaper
+**Monsters:** <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Evil Reaper · <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Grim Reaper
 
 **HP:** not recorded yet
 
@@ -140,7 +140,7 @@ The heroes discover a castle in the dark forest, it must have something to do wi
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **31,756** · 2 elite, 1 boss monster(s)
 
-**Monsters:** <img src="../img/monsters/ghost-king.png" width="40" alt=""> Ghost King · <img src="../img/monsters/skeleton-king.png" width="40" alt=""> Skeleton King · Ghost King · Skeleton King · <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Reaper
+**Monsters:** Ghost King · Skeleton King · <img src="../img/monsters/evil-reaper.png" width="40" alt=""> Reaper
 
 **HP:** Ghost King 104,046, Skeleton King 55,000 · total **159,046**
 

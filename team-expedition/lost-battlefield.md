@@ -41,7 +41,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **3,324,855** · 4 normal, 1 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/monitor-type-g.png" width="40" alt=""> Monitor Type G · Energy Ball
+**Monsters:** <img src="../img/monsters/monitor-type-g.png" width="40" alt=""> Monitor Type G
 
 **HP:** not recorded yet
 
@@ -119,7 +119,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **4,279,759** · 4 normal, 1 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/hunter.png" width="40" alt=""> Hunter · <img src="../img/monsters/hunter.png" width="40" alt=""> Hunter
+**Monsters:** <img src="../img/monsters/hunter.png" width="40" alt=""> Hunter
 
 **HP:** not recorded yet
 
@@ -182,7 +182,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **4,371,133** · 4 normal, 1 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/judge.png" width="40" alt=""> Judge · Exploit Weakness
+**Monsters:** <img src="../img/monsters/judge.png" width="40" alt=""> Judge
 
 **HP:** not recorded yet
 
@@ -201,7 +201,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **4,808,246** · 4 normal, 1 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/head-tec.png" width="40" alt=""> Head Tec · Energy Ball
+**Monsters:** <img src="../img/monsters/head-tec.png" width="40" alt=""> Head Tec
 
 **HP:** not recorded yet
 

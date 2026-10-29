@@ -100,7 +100,7 @@ A ghost train suddenly appeared in the depths of Douhai
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **2,270,709** · 4 normal, 1 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/murloc-pitcher.png" width="40" alt=""> Murloc pitcher · <img src="../img/monsters/siren-girl.png" width="40" alt=""> Siren Girl · organ
+**Monsters:** <img src="../img/monsters/murloc-pitcher.png" width="40" alt=""> Murloc pitcher · <img src="../img/monsters/siren-girl.png" width="40" alt=""> Siren Girl
 
 **HP:** not recorded yet
 
@@ -119,7 +119,7 @@ A ghost train suddenly appeared in the depths of Douhai
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **2,335,396** · 3 normal monster(s)
 
-**Monsters:** <img src="../img/monsters/tortoise-gunner.png" width="40" alt=""> Tortoise Gunner · <img src="../img/monsters/ninja-turtles.png" width="40" alt=""> Ninja Turtles · <img src="../img/monsters/ninja-turtles-clone.png" width="40" alt=""> Ninja Turtles (Clone)
+**Monsters:** <img src="../img/monsters/tortoise-gunner.png" width="40" alt=""> Tortoise Gunner · <img src="../img/monsters/ninja-turtles.png" width="40" alt=""> Ninja Turtles
 
 **HP:** not recorded yet
 
@@ -201,7 +201,7 @@ A ghost train suddenly appeared in the depths of Douhai
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **2,464,769** · 3 normal monster(s)
 
-**Monsters:** <img src="../img/monsters/captain-crocodile.png" width="40" alt=""> Captain Crocodile · <img src="../img/monsters/crocodile-warrior.png" width="40" alt=""> Crocodile Warrior · The weather · <img src="../img/monsters/efreet.png" width="40" alt=""> Efreet
+**Monsters:** <img src="../img/monsters/captain-crocodile.png" width="40" alt=""> Captain Crocodile
 
 **HP:** not recorded yet
 

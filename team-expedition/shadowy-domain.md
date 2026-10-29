@@ -76,7 +76,7 @@ Dark forces kept invading the Darkest Realm
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **1,821,876** · 4 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/toxin-dragon.png" width="40" alt=""> Toxin Dragon · <img src="../img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon · Toxic Gas · Acid Rain
+**Monsters:** <img src="../img/monsters/toxin-dragon.png" width="40" alt=""> Toxin Dragon · <img src="../img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon
 
 **HP:** not recorded yet
 
@@ -132,7 +132,7 @@ Dark forces kept invading the Darkest Realm
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **1,841,876** · 2 normal, 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/toxin-dragon.png" width="40" alt=""> Toxin Dragon · <img src="../img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon · Toxic Gas · Acid Rain
+**Monsters:** <img src="../img/monsters/toxin-dragon.png" width="40" alt=""> Toxin Dragon · <img src="../img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon
 
 **HP:** not recorded yet
 
@@ -151,7 +151,7 @@ Dark forces kept invading the Darkest Realm
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **1,876,424** · 4 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/lava-dragon.png" width="40" alt=""> Lava Dragon · <img src="../img/monsters/holy-dragon.png" width="40" alt=""> Holy Dragon · Hellfire · White Cave
+**Monsters:** <img src="../img/monsters/lava-dragon.png" width="40" alt=""> Lava Dragon · <img src="../img/monsters/holy-dragon.png" width="40" alt=""> Holy Dragon
 
 **HP:** not recorded yet
 
@@ -210,7 +210,7 @@ Dark forces kept invading the Darkest Realm
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **2,048,569** · 2 normal, 2 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/black-archmage.png" width="40" alt=""> Black Archmage · Black Archmage Summonee · Puppet Dreamland
+**Monsters:** <img src="../img/monsters/black-archmage.png" width="40" alt=""> Black Archmage · Black Archmage Summonee
 
 **HP:** not recorded yet
 
@@ -229,7 +229,7 @@ Dark forces kept invading the Darkest Realm
 - Lose: Allied Team Annihilated Number of Turns >40
 - Recommended BP: **2,105,368** · 4 elite monster(s)
 
-**Monsters:** <img src="../img/monsters/toxin-dragon.png" width="40" alt=""> Viper Dragon (4 Emperor Dragons) · <img src="../img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon (4 Emperor Dragons) · <img src="../img/monsters/lava-dragon.png" width="40" alt=""> Flame Dragon (4 Emperor Dragons) · <img src="../img/monsters/holy-dragon.png" width="40" alt=""> Holy Dragon (4 Emperor Dragons) · Toxic Gas · Acid Rain · Hellfire · White Cave
+**Monsters:** <img src="../img/monsters/toxin-dragon.png" width="40" alt=""> Viper Dragon (4 Emperor Dragons) · <img src="../img/monsters/ice-dragon.png" width="40" alt=""> Ice Dragon (4 Emperor Dragons) · <img src="../img/monsters/lava-dragon.png" width="40" alt=""> Flame Dragon (4 Emperor Dragons) · <img src="../img/monsters/holy-dragon.png" width="40" alt=""> Holy Dragon (4 Emperor Dragons)
 
 **HP:** not recorded yet
 

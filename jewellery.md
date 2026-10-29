@@ -7,7 +7,7 @@ title: Jewellery
 ## How jewellery works
 
 - You wear 5 pieces, one per slot: Necklace, Bangle, Ring, Ornament, Backhand. Jewellery unlocks at player level 28.
-- Tiers, from low to high: **Valor** → **Fearless** → **Glory** → **Legend** → **Dragon** → **Immortal** → **Hades** → **Artemis**.
+- Tiers, from low to high: **Valor** → **Fearless** → **Glory** → **Legend** → **Dragon** → **Immortal** → **Hades**.
 - **Craft Jewelry** makes a piece of the next tier (or the "(Superb)" version of a piece) from other pieces, Forge Hammers, blueprints or gems, and Coins. The pieces used are consumed; enchant EXP on them is partly refunded.
 - **Advance** raises a piece's quality inside its set (for example Immortal → (Epic) → (Legend)). The old piece is consumed, and its enchantment and gems are lost.
 - **Enchant** adds up to 6 stars. Each star needs enchant EXP; each EXP point costs 50 Coins. Using other jewellery as material gives 75% of its value.
@@ -22,7 +22,6 @@ title: Jewellery
 <a class="wiki-card" href="jewellery/dragon.html"><span class="wc-pic"><img src="img/items/dragon-earrings.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Dragon</span><span class="wc-text">49 pieces: recipes, stats and materials.</span></span></a>
 <a class="wiki-card" href="jewellery/immortal.html"><span class="wc-pic"><img src="img/items/immortal-wings.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Immortal</span><span class="wc-text">29 pieces: recipes, stats and materials.</span></span></a>
 <a class="wiki-card" href="jewellery/hades.html"><span class="wc-pic"><img src="img/items/hades-necklace.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Hades</span><span class="wc-text">15 pieces: recipes, stats and materials.</span></span></a>
-<a class="wiki-card" href="jewellery/artemis.html"><span class="wc-pic"><img src="img/items/artemis-s-necklace.png" width="96" alt=""></span><span class="wc-body"><span class="wc-title">Artemis</span><span class="wc-text">15 pieces: recipes, stats and materials.</span></span></a>
 </div>
 
 ## Enchant stones
@@ -66,4 +65,3 @@ title: Jewellery
 | SP Dragon Set | ATK +260, DEF +195, DMG- +80 | HP +1,850, CRIT +160, DMG+ +400 |
 | Immortal Set | ATK +260, DEF +195, DMG- +80 | HP +1,850, CRIT +160, DMG+ +400 |
 | Hades Set | ATK +260, DEF +195, DMG- +80 | HP +1,850, CRIT +160, DMG+ +400 |
-| Artemis Set | ATK +650, DEF +488, DMG- +200 | HP +4,625, CRIT +400, DMG+ +1,000 |

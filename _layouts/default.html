@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    {% seo %}
+    <script>
+      // Theme before first paint: the saved choice, else the system setting.
+      (function () {
+        var saved = localStorage.getItem('theme');
+        var dark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+      })();
+    </script>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <button id="theme-toggle" type="button" aria-label="Switch light / dark mode" title="Switch light / dark mode"></button>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+      {{ content }}
+      <hr>
+      <footer class="site-disclaimer">
+        <p><strong>Disclaimer:</strong> this is an unofficial, fan-made player wiki. It is not affiliated with, endorsed by or sponsored by the game's developer or publisher. All game names, text and images shown here belong to their respective owners and are used for informational purposes only.</p>
+        <p>If you are the game's owner or a rights holder and want this site or any part of it taken down, please <a href="https://github.com/DevilLord41/tntbombsaga/issues/new?title=Takedown%20request">open a takedown request</a> and it will be removed promptly, no questions asked.</p>
+      </footer>
+    </div>
+    <script>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        var root = document.documentElement;
+        var label = function () { btn.textContent = root.getAttribute('data-theme') === 'dark' ? '☀ Light' : '☾ Dark'; };
+        label();
+        btn.addEventListener('click', function () {
+          var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          root.setAttribute('data-theme', next);
+          localStorage.setItem('theme', next);
+          label();
+        });
+      })();
+    </script>
+  </body>
+</html>

@@ -18,14 +18,16 @@
     list.setAttribute('aria-labelledby', id + '-label');
     R.forEach(function (r, i) { var li = document.createElement('li'); li.id = id + '-opt-' + i; li.setAttribute('role', 'option'); li.setAttribute('data-i', i); li.innerHTML = entry(r); list.appendChild(li); });
     host.appendChild(btn); host.appendChild(list);
+    // the box is redrawn only when the value changes: redrawing it on open would detach the clicked element, and the
+    // outside-click check below would then close the list straight away
+    function renderBtn() { btn.innerHTML = entry(R[value]) + '<span class="rc-caret" aria-hidden="true">&#9662;</span>'; }
     function render() {
-      btn.innerHTML = entry(R[value]) + '<span class="rc-caret" aria-hidden="true">&#9662;</span>';
       for (var i = 0; i < list.children.length; i++) { list.children[i].setAttribute('aria-selected', i === value ? 'true' : 'false'); list.children[i].className = i === active ? 'active' : ''; }
       list.setAttribute('aria-activedescendant', id + '-opt-' + active);
     }
     function open() { pickers.forEach(function (p) { if (p !== api) p.close(false); }); active = value; list.hidden = false; btn.setAttribute('aria-expanded', 'true'); render(); list.focus(); list.children[active].scrollIntoView({ block: 'nearest' }); }
     function close(focusBtn) { if (list.hidden) return; list.hidden = true; btn.setAttribute('aria-expanded', 'false'); if (focusBtn) btn.focus(); }
-    function choose(i) { value = i; active = i; render(); close(true); calc(); }
+    function choose(i) { value = i; active = i; renderBtn(); render(); close(true); calc(); }
     btn.addEventListener('click', function () { if (list.hidden) open(); else close(false); });
     btn.addEventListener('keydown', function (e) { if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); open(); } });
     list.addEventListener('click', function (e) { var li = e.target.closest('li'); if (li) choose(Number(li.getAttribute('data-i'))); });
@@ -44,7 +46,7 @@
     document.addEventListener('click', function (e) { if (!host.contains(e.target)) close(false); });
     var api = { close: close, get value() { return value; } };
     pickers.push(api);
-    render();
+    renderBtn(); render();
     return api;
   }
   var cur = picker($('rc-cur'), 0), tgt = picker($('rc-target'), R.length - 1);

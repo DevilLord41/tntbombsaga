@@ -6,7 +6,7 @@ title: Military rank
 
 ## How ranking works
 
-- You earn <img src="img/items/honor.png" width="18" alt=""> **Honor** by fighting: Free Arena and Ladder matches. A higher Ladder tier gives more Honor, and so does a higher rank.
+- You earn <img src="img/items/honor.png" width="18" alt=""> **Honor** in **Free Arena** matches (1v1, 2v2 and 3v3). Free Arena only gives Honor up to a daily amount; after that, matches give 0 Honor until the next day. **Ladder matches give no Honor**, only ladder points.
 - When the rank bar is full, press **Promote**. Promoting **spends** the Honor the next rank needs; any Honor above that stays on the bar for the following rank.
 - From Second Lt. up, each promotion also **costs Diamonds** <img src="img/items/diamond.png" width="18" alt=""> (the game asks you to confirm first). A few early ranks also need a number of Free Arena wins.
 - Each rank gives a badge with stats, more daily privileges, and its own perks and packs (see below).

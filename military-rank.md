@@ -21,7 +21,7 @@ Pick your current rank, type the Honor shown on your rank bar, and pick the rank
 <div class="rc-field"><span class="rc-label" id="rc-target-label">Target rank</span><div class="rc-select" id="rc-target"></div></div>
 <div id="rc-out"></div>
 </div>
-<script src="assets/js/rank-calc.js"></script>
+<script src="assets/js/rank-calc.js?v=0b9c03ef"></script>
 
 ## Ranks
 

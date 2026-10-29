@@ -237,7 +237,7 @@ Dark forces kept invading the Darkest Realm
 
 | Item | Number | Probability |
 |---|---|---|
-|  Mutant Hippo | 1 | 0.10% |
+| <img src="../img/mounts/mutant-hippo.png" width="24" alt=""> Mutant Hippo | 1 | 0.10% |
 | <img src="../img/items/immortal-ring-blueprint.png" width="24" alt=""> Immortal Ring Blueprint | 1 | 0.10% |
 | <img src="../img/items/sigil-3.png" width="24" alt=""> Sigil 3 | 1 - 2 | 2.88% |
 | <img src="../img/items/legend-code-case.png" width="24" alt=""> Legend Code Case | 1 | 0.96% |

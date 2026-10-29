@@ -209,7 +209,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 
 | Item | Number | Probability |
 |---|---|---|
-|  Mech Dragon | 1 | 0.10% |
+| <img src="../img/mounts/mech-dragon.png" width="24" alt=""> Mech Dragon | 1 | 0.10% |
 | <img src="../img/items/immortal-tale-blueprint.png" width="24" alt=""> Immortal Tale Blueprint | 1 | 0.10% |
 | <img src="../img/items/crystal-identification-scroll.png" width="24" alt=""> Crystal Identification Scroll | 1 - 2 | 3.97% |
 | <img src="../img/items/legend-code-case.png" width="24" alt=""> Legend Code Case | 1 | 0.99% |

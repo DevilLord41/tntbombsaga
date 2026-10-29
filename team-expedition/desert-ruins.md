@@ -200,7 +200,7 @@ There was an ancient castle in the vast Desert Ruins, and the mysterious statues
 
 | Item | Number | Probability |
 |---|---|---|
-|  Sphinx | 1 | 0.18% |
+| <img src="../img/mounts/sphinx.png" width="24" alt=""> Sphinx | 1 | 0.18% |
 | <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> Wraith: Skeleton Scale | 1 | 0.09% |
 | <img src="../img/items/discrete-inscription.png" width="24" alt=""> Discrete Inscription | 1 - 2 | 1.82% |
 | <img src="../img/items/legend-code-case.png" width="24" alt=""> Legend Code Case | 1 | 0.91% |

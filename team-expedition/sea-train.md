@@ -209,7 +209,7 @@ A ghost train suddenly appeared in the depths of Douhai
 
 | Item | Number | Probability |
 |---|---|---|
-|  Jade Kirin | 1 | 0.10% |
+| <img src="../img/mounts/jade-kirin.png" width="24" alt=""> Jade Kirin | 1 | 0.10% |
 | <img src="../img/items/immortality-blueprint.png" width="24" alt=""> Immortality Blueprint | 1 | 0.10% |
 | <img src="../img/items/troll-sting-blueprint.png" width="24" alt=""> Troll Sting Blueprint | 1 - 2 | 0.95% |
 | <img src="../img/items/legend-code-case.png" width="24" alt=""> Legend Code Case | 1 | 0.95% |

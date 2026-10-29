@@ -199,7 +199,7 @@ title: "Snow Castle"
 
 | Item | Number | Probability |
 |---|---|---|
-|  Crystal Pioneer | 1 | 0.10% |
+| <img src="../img/mounts/crystal-pioneer.png" width="24" alt=""> Crystal Pioneer | 1 | 0.10% |
 | <img src="../img/items/immortal-pendant-blueprint.png" width="24" alt=""> Immortal Pendant Blueprint | 1 | 0.10% |
 | <img src="../img/items/sigil-3.png" width="24" alt=""> Sigil 3 | 1 - 2 | 1.52% |
 | <img src="../img/items/legend-code-case.png" width="24" alt=""> Legend Code Case | 1 | 1.01% |

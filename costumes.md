@@ -4,7 +4,7 @@ title: Costumes
 
 # Costumes
 
-Every costume piece in the game (466), by kind. Most pieces come in a male and a female version; "For" says who can wear it.
+Every costume piece in the game (466), by kind. Most pieces come in a male and a female version; "For" says who can wear it. Suits are shown moving, as they do on your character.
 
 **Jump to:** [Suits](#suit) · [Clothes](#clothes) · [Hats](#tire) · [Hair](#hair) · [Glasses](#glasses) · [Faces](#expression) · [Chat bubbles](#bubble)
 
@@ -13,174 +13,174 @@ Every costume piece in the game (466), by kind. Most pieces come in a male and a
 
 | Costume | Name | For |
 |---|---|---|
-| <img src="img/costumes/lost-forest.png" width="64" alt=""> | **Lost Forest** | Male |
-| <img src="img/costumes/monkey-king.png" width="64" alt=""> | **Monkey King** | Male |
-| <img src="img/costumes/baymax.png" width="64" alt=""> | **Baymax** | Male |
-| <img src="img/costumes/new-year-set.png" width="64" alt=""> | **New Year Set** | Male |
-| <img src="img/costumes/aries.png" width="64" alt=""> | **Aries** | Male |
-| <img src="img/costumes/taurean.png" width="64" alt=""> | **Taurean** | Male |
-| <img src="img/costumes/gemini.png" width="64" alt=""> | **Gemini** | Male |
-| <img src="img/costumes/cancer.png" width="64" alt=""> | **Cancer** | Male |
-| <img src="img/costumes/leo.png" width="64" alt=""> | **Leo** | Male |
-| <img src="img/costumes/spiderman.png" width="64" alt=""> | **Spiderman** | Male |
-| <img src="img/costumes/swordsman.png" width="64" alt=""> | **Swordsman** | Male |
-| <img src="img/costumes/virgo.png" width="64" alt=""> | **Virgo** | Male |
-| <img src="img/costumes/bajie.png" width="64" alt=""> | **Bajie** | Male |
-| <img src="img/costumes/libra.png" width="64" alt=""> | **Libra** | Male |
-| <img src="img/costumes/scorpio.png" width="64" alt=""> | **Scorpio** | Male |
-| <img src="img/costumes/sagittarius.png" width="64" alt=""> | **Sagittarius** | Male |
-| <img src="img/costumes/endurance.png" width="64" alt=""> | **Endurance** | Male |
-| <img src="img/costumes/tuxedo-thief.png" width="64" alt=""> | **Tuxedo Thief** | Male |
-| <img src="img/costumes/capricorn.png" width="64" alt=""> | **Capricorn** | Male |
-| <img src="img/costumes/aquarius.png" width="64" alt=""> | **Aquarius** | Male |
-| <img src="img/costumes/pisces.png" width="64" alt=""> | **Pisces** | Male |
-| <img src="img/costumes/card-master-trieste.png" width="64" alt=""> | **Card Master Trieste** | Male |
-| <img src="img/costumes/carnival-party.png" width="64" alt=""> | **Carnival Party** | Male |
-| <img src="img/costumes/iron-heart.png" width="64" alt=""> | **Iron Heart** | Male |
-| <img src="img/costumes/dinosaur-pajamas.png" width="64" alt=""> | **Dinosaur Pajamas** | Male |
-| <img src="img/costumes/wandering-earth.png" width="64" alt=""> | **Wandering Earth** | Male |
-| <img src="img/costumes/dandy-boy.png" width="64" alt=""> | **Dandy Boy** | Male |
-| <img src="img/costumes/snow-knight.png" width="64" alt=""> | **Snow Knight** | Male |
-| <img src="img/costumes/justin.png" width="64" alt=""> | **Justin** | Male |
-| <img src="img/costumes/emperor-of-nian.png" width="64" alt=""> | **Emperor of Nian** | Male |
-| <img src="img/costumes/xmas-naughty-boy.png" width="64" alt=""> | **Xmas Naughty Boy** | Male |
-| <img src="img/costumes/robinhood-rat.png" width="64" alt=""> | **Robinhood Rat** | Male |
-| <img src="img/costumes/carat-love.png" width="64" alt=""> | **Carat Love** | Male |
-| <img src="img/costumes/dreamy-dancer.png" width="64" alt=""> | **Dreamy Dancer** | Male |
-| <img src="img/costumes/imperial-marshal.png" width="64" alt=""> | **Imperial Marshal** | Male |
-| <img src="img/costumes/guardian-of-bullets.png" width="64" alt=""> | **Guardian of Bullets** | Male |
-| <img src="img/costumes/deep-sea-adventure.png" width="64" alt=""> | **Deep Sea Adventure** | Male |
-| <img src="img/costumes/p-e-teacher.png" width="64" alt=""> | **P.E. teacher** | Male |
-| <img src="img/costumes/wonderful-band.png" width="64" alt=""> | **Wonderful Band** | Male |
-| <img src="img/costumes/ghost-of-guns.png" width="64" alt=""> | **Ghost of Guns** | Male |
-| <img src="img/costumes/weapon-dancer.png" width="64" alt=""> | **Weapon Dancer** | Male |
-| <img src="img/costumes/naughty-ox.png" width="64" alt=""> | **Naughty Ox** | Male |
-| <img src="img/costumes/wood-spirit-prince.png" width="64" alt=""> | **Wood Spirit Prince** | Male |
-| <img src="img/costumes/land-warfare.png" width="64" alt=""> | **Land warfare** | Male |
-| <img src="img/costumes/lord-dragon-dance.png" width="64" alt=""> | **Lord Dragon Dance** | Male |
-| <img src="img/costumes/school-deacon.png" width="64" alt=""> | **School Deacon** | Male |
-| <img src="img/costumes/x-dimension-warrior.png" width="64" alt=""> | **X-Dimension Warrior** | Male |
-| <img src="img/costumes/mr-kiasu.png" width="64" alt=""> | **Mr.Kiasu** | Male |
-| <img src="img/costumes/pop-boy.png" width="64" alt=""> | **Pop Boy** | Male |
-| <img src="img/costumes/starry-prince.png" width="64" alt=""> | **Starry Prince** | Male |
-| <img src="img/costumes/shadow-swordsman.png" width="64" alt=""> | **Shadow Swordsman** | Male |
-| <img src="img/costumes/candy-tales.png" width="64" alt=""> | **Candy Tales** | Male |
-| <img src="img/costumes/fairy-world.png" width="64" alt=""> | **Fairy World** | Male |
-| <img src="img/costumes/quantum-samurai.png" width="64" alt=""> | **Quantum Samurai** | Male |
-| <img src="img/costumes/peace-guardian.png" width="64" alt=""> | **Peace Guardian** | Male |
-| <img src="img/costumes/school-of-superpower.png" width="64" alt=""> | **School of Superpower** | Male |
-| <img src="img/costumes/starry-envoy.png" width="64" alt=""> | **Starry Envoy** | Male |
-| <img src="img/costumes/qixi-love.png" width="64" alt=""> | **Qixi Love** | Male |
-| <img src="img/costumes/new-year-bunny.png" width="64" alt=""> | **New Year, Bunny!** | Male |
-| <img src="img/costumes/glorious-dragon.png" width="64" alt=""> | **Glorious Dragon** | Male |
-| <img src="img/costumes/shining-xuanwu.png" width="64" alt=""> | **Shining Xuanwu** | Male |
-| <img src="img/costumes/fantasy-loong.png" width="64" alt=""> | **Fantasy Loong** | Male |
-| <img src="img/costumes/the-great-sage.png" width="64" alt=""> | **The Great Sage** | Male |
-| <img src="img/costumes/thriving.png" width="64" alt=""> | **Thriving** | Male |
-| <img src="img/costumes/twilight-spy.png" width="64" alt=""> | **Twilight Spy** | Male |
-| <img src="img/costumes/ghost-swordsman.png" width="64" alt=""> | **Ghost Swordsman** | Male |
-| <img src="img/costumes/quirky-elf.png" width="64" alt=""> | **Quirky Elf** | Male |
-| <img src="img/costumes/capybara.png" width="64" alt=""> | **Capybara** | Male |
-| <img src="img/costumes/snake-spirit.png" width="64" alt=""> | **Snake Spirit** | Male |
-| <img src="img/costumes/quirky-elf-brown.png" width="64" alt=""> | **Quirky Elf (Brown)** | Male |
-| <img src="img/costumes/quirky-elf-yellow.png" width="64" alt=""> | **Quirky Elf (Yellow)** | Male |
-| <img src="img/costumes/quirky-elf-blue.png" width="64" alt=""> | **Quirky Elf (Blue)** | Male |
-| <img src="img/costumes/quirky-elf-green.png" width="64" alt=""> | **Quirky Elf (Green)** | Male |
-| <img src="img/costumes/quirky-elf-pink.png" width="64" alt=""> | **Quirky Elf (Pink)** | Male |
-| <img src="img/costumes/quirky-elf-ultra.png" width="64" alt=""> | **Quirky Elf (Ultra)** | Male |
-| <img src="img/costumes/nezha.png" width="64" alt=""> | **Nezha** | Male |
-| <img src="img/costumes/sea-salt-easter.png" width="64" alt=""> | **Sea Salt Easter** | Male |
-| <img src="img/costumes/upper-moons-iii.png" width="64" alt=""> | **Upper Moons III** | Male |
-| <img src="img/costumes/groom-set.png" width="64" alt=""> | **Groom Set** | Male |
-| <img src="img/costumes/sincere-love.png" width="64" alt=""> | **Sincere Love** | Male |
-| <img src="img/costumes/the-dragon-s-guardian.png" width="64" alt=""> | **The Dragon's Guardian** | Male |
-| <img src="img/costumes/noon-horse-manifest.png" width="64" alt=""> | **Noon Horse Manifest** | Male |
-| <img src="img/costumes/chippy.png" width="64" alt=""> | **Chippy** | Male |
-| <img src="img/costumes/nick.png" width="64" alt=""> | **Nick** | Male |
-| <img src="img/costumes/lost-forest.png" width="64" alt=""> | **Lost Forest** | Female |
-| <img src="img/costumes/monkey-king.png" width="64" alt=""> | **Monkey King** | Female |
-| <img src="img/costumes/baymax.png" width="64" alt=""> | **Baymax** | Female |
-| <img src="img/costumes/new-year-set-2.png" width="64" alt=""> | **New Year Set** | Female |
-| <img src="img/costumes/aries-2.png" width="64" alt=""> | **Aries** | Female |
-| <img src="img/costumes/taurean-2.png" width="64" alt=""> | **Taurean** | Female |
-| <img src="img/costumes/gemini-2.png" width="64" alt=""> | **Gemini** | Female |
-| <img src="img/costumes/cancer-2.png" width="64" alt=""> | **Cancer** | Female |
-| <img src="img/costumes/leo-2.png" width="64" alt=""> | **Leo** | Female |
-| <img src="img/costumes/chang-e.png" width="64" alt=""> | **Chang'e** | Female |
-| <img src="img/costumes/libra-2.png" width="64" alt=""> | **Libra** | Female |
-| <img src="img/costumes/scorpio-2.png" width="64" alt=""> | **Scorpio** | Female |
-| <img src="img/costumes/sagittarius-2.png" width="64" alt=""> | **Sagittarius** | Female |
-| <img src="img/costumes/survival.png" width="64" alt=""> | **Survival** | Female |
-| <img src="img/costumes/sailor-maiden.png" width="64" alt=""> | **Sailor Maiden** | Female |
-| <img src="img/costumes/capricorn-2.png" width="64" alt=""> | **Capricorn** | Female |
-| <img src="img/costumes/aquarius-2.png" width="64" alt=""> | **Aquarius** | Female |
-| <img src="img/costumes/pisces-2.png" width="64" alt=""> | **Pisces** | Female |
-| <img src="img/costumes/virtuoso-amanda.png" width="64" alt=""> | **Virtuoso Amanda** | Female |
-| <img src="img/costumes/carnival-party-2.png" width="64" alt=""> | **Carnival Party** | Female |
-| <img src="img/costumes/iron-heart-2.png" width="64" alt=""> | **Iron Heart** | Female |
-| <img src="img/costumes/dinosaur-pajamas-2.png" width="64" alt=""> | **Dinosaur Pajamas** | Female |
-| <img src="img/costumes/wandering-earth.png" width="64" alt=""> | **Wandering Earth** | Female |
-| <img src="img/costumes/slim-girl.png" width="64" alt=""> | **Slim Girl** | Female |
-| <img src="img/costumes/snow-queen.png" width="64" alt=""> | **Snow Queen** | Female |
-| <img src="img/costumes/amee.png" width="64" alt=""> | **Amee** | Female |
-| <img src="img/costumes/queen-of-nian.png" width="64" alt=""> | **Queen of Nian** | Female |
-| <img src="img/costumes/xmas-naughty-boy.png" width="64" alt=""> | **Xmas Naughty Girl** | Female |
-| <img src="img/costumes/robynhood-rat.png" width="64" alt=""> | **Robynhood Rat** | Female |
-| <img src="img/costumes/carat-love-2.png" width="64" alt=""> | **Carat Love** | Female |
-| <img src="img/costumes/dancer.png" width="64" alt=""> | **Dancer** | Female |
-| <img src="img/costumes/triumphant-princess.png" width="64" alt=""> | **Triumphant Princess** | Female |
-| <img src="img/costumes/supergirl.png" width="64" alt=""> | **Supergirl** | Female |
-| <img src="img/costumes/deep-sea-adventure-2.png" width="64" alt=""> | **Deep Sea Adventure** | Female |
-| <img src="img/costumes/math-teacher.png" width="64" alt=""> | **Math teacher** | Female |
-| <img src="img/costumes/wonderful-band-2.png" width="64" alt=""> | **Wonderful Band** | Female |
-| <img src="img/costumes/ghost-of-guns-2.png" width="64" alt=""> | **Ghost of Guns** | Female |
-| <img src="img/costumes/weapon-dancer-2.png" width="64" alt=""> | **Weapon Dancer** | Female |
-| <img src="img/costumes/cute-maiden-ox.png" width="64" alt=""> | **Cute Maiden Ox** | Female |
-| <img src="img/costumes/flower-queen.png" width="64" alt=""> | **Flower Queen** | Female |
-| <img src="img/costumes/sonorous-female-soldier.png" width="64" alt=""> | **Sonorous female soldier** | Female |
-| <img src="img/costumes/string-dancing-girl.png" width="64" alt=""> | **String Dancing Girl** | Female |
-| <img src="img/costumes/crimson-maid.png" width="64" alt=""> | **Crimson Maid** | Female |
-| <img src="img/costumes/dimension-witch.png" width="64" alt=""> | **Dimension Witch** | Female |
-| <img src="img/costumes/mr-kiasu.png" width="64" alt=""> | **Mr.Kiasu** | Female |
-| <img src="img/costumes/dj-electro-girl.png" width="64" alt=""> | **Dj-Electro Girl** | Female |
-| <img src="img/costumes/rainbow-girl.png" width="64" alt=""> | **Rainbow Girl** | Female |
-| <img src="img/costumes/rose-maiden.png" width="64" alt=""> | **Rose Maiden** | Female |
-| <img src="img/costumes/candy-tales-2.png" width="64" alt=""> | **Candy Tales** | Female |
-| <img src="img/costumes/fairy-world-2.png" width="64" alt=""> | **Fairy World** | Female |
-| <img src="img/costumes/quantum-samurai-2.png" width="64" alt=""> | **Quantum Samurai** | Female |
-| <img src="img/costumes/peace-guardian-2.png" width="64" alt=""> | **Peace Guardian** | Female |
-| <img src="img/costumes/school-of-superpower-2.png" width="64" alt=""> | **School of Superpower** | Female |
-| <img src="img/costumes/starry-envoy-2.png" width="64" alt=""> | **Starry Envoy** | Female |
-| <img src="img/costumes/qixi-love-2.png" width="64" alt=""> | **Qixi Love** | Female |
-| <img src="img/costumes/new-year-bunny-2.png" width="64" alt=""> | **New Year, Bunny!** | Female |
-| <img src="img/costumes/glorious-rosefinch.png" width="64" alt=""> | **Glorious Rosefinch** | Female |
-| <img src="img/costumes/shining-tiger.png" width="64" alt=""> | **Shining Tiger** | Female |
-| <img src="img/costumes/fantasy-loong-2.png" width="64" alt=""> | **Fantasy Loong** | Female |
-| <img src="img/costumes/the-great-sage.png" width="64" alt=""> | **The Great Sage** | Female |
-| <img src="img/costumes/prosperity.png" width="64" alt=""> | **Prosperity** | Female |
-| <img src="img/costumes/thorn-assassin.png" width="64" alt=""> | **Thorn Assassin** | Female |
-| <img src="img/costumes/shrouded-girl.png" width="64" alt=""> | **Shrouded Girl** | Female |
-| <img src="img/costumes/quirky-elf.png" width="64" alt=""> | **Quirky Elf** | Female |
-| <img src="img/costumes/capybara-2.png" width="64" alt=""> | **Capybara** | Female |
-| <img src="img/costumes/snake-spirit-2.png" width="64" alt=""> | **Snake Spirit** | Female |
-| <img src="img/costumes/quirky-elf-brown.png" width="64" alt=""> | **Quirky Elf (Brown)** | Female |
-| <img src="img/costumes/quirky-elf-yellow.png" width="64" alt=""> | **Quirky Elf (Yellow)** | Female |
-| <img src="img/costumes/quirky-elf-blue.png" width="64" alt=""> | **Quirky Elf (Blue)** | Female |
-| <img src="img/costumes/quirky-elf-green.png" width="64" alt=""> | **Quirky Elf (Green)** | Female |
-| <img src="img/costumes/quirky-elf-pink.png" width="64" alt=""> | **Quirky Elf (Pink)** | Female |
-| <img src="img/costumes/quirky-elf-ultra.png" width="64" alt=""> | **Quirky Elf (Ultra)** | Female |
-| <img src="img/costumes/nezha.png" width="64" alt=""> | **Nezha** | Female |
-| <img src="img/costumes/sakura-easter.png" width="64" alt=""> | **Sakura Easter** | Female |
-| <img src="img/costumes/oni-lord.png" width="64" alt=""> | **Oni Lord** | Female |
-| <img src="img/costumes/bride-set.png" width="64" alt=""> | **Bride Set** | Female |
-| <img src="img/costumes/spiderman.png" width="64" alt=""> | **Spiderman** | Female |
-| <img src="img/costumes/dancer-2.png" width="64" alt=""> | **Dancer** | Female |
-| <img src="img/costumes/virgo-2.png" width="64" alt=""> | **Virgo** | Female |
-| <img src="img/costumes/sincere-love-2.png" width="64" alt=""> | **Sincere Love** | Female |
-| <img src="img/costumes/phoenix-s-ballad.png" width="64" alt=""> | **Phoenix's Ballad** | Female |
-| <img src="img/costumes/noon-horse-gallops-in-fragrance.png" width="64" alt=""> | **Noon Horse Gallops in Fragrance** | Female |
-| <img src="img/costumes/chippy.png" width="64" alt=""> | **Chippy** | Female |
-| <img src="img/costumes/judy.png" width="64" alt=""> | **Judy** | Female |
+| <img src="img/costumes/suits/lost-forest-male.avif" width="139" height="151" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/lost-forest.png'"> | **Lost Forest** | Male |
+| <img src="img/costumes/suits/monkey-king-male.avif" width="185" height="173" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/monkey-king.png'"> | **Monkey King** | Male |
+| <img src="img/costumes/suits/baymax-male.avif" width="105" height="118" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/baymax.png'"> | **Baymax** | Male |
+| <img src="img/costumes/suits/new-year-set-male.avif" width="126" height="148" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/new-year-set.png'"> | **New Year Set** | Male |
+| <img src="img/costumes/suits/aries-male.avif" width="142" height="155" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/aries.png'"> | **Aries** | Male |
+| <img src="img/costumes/suits/taurean-male.avif" width="154" height="156" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/taurean.png'"> | **Taurean** | Male |
+| <img src="img/costumes/suits/gemini-male.avif" width="247" height="162" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/gemini.png'"> | **Gemini** | Male |
+| <img src="img/costumes/suits/cancer-male.avif" width="158" height="179" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/cancer.png'"> | **Cancer** | Male |
+| <img src="img/costumes/suits/leo-male.avif" width="124" height="150" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/leo.png'"> | **Leo** | Male |
+| <img src="img/costumes/suits/spiderman-male.avif" width="77" height="230" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/spiderman.png'"> | **Spiderman** | Male |
+| <img src="img/costumes/suits/swordsman-male.avif" width="116" height="149" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/swordsman.png'"> | **Swordsman** | Male |
+| <img src="img/costumes/suits/virgo-male.avif" width="123" height="159" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/virgo.png'"> | **Virgo** | Male |
+| <img src="img/costumes/suits/bajie-male.avif" width="173" height="143" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/bajie.png'"> | **Bajie** | Male |
+| <img src="img/costumes/suits/libra-male.avif" width="148" height="160" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/libra.png'"> | **Libra** | Male |
+| <img src="img/costumes/suits/scorpio-male.avif" width="123" height="150" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/scorpio.png'"> | **Scorpio** | Male |
+| <img src="img/costumes/suits/sagittarius-male.avif" width="117" height="152" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sagittarius.png'"> | **Sagittarius** | Male |
+| <img src="img/costumes/suits/endurance-male.avif" width="104" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/endurance.png'"> | **Endurance** | Male |
+| <img src="img/costumes/suits/tuxedo-thief-male.avif" width="185" height="179" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/tuxedo-thief.png'"> | **Tuxedo Thief** | Male |
+| <img src="img/costumes/suits/capricorn-male.avif" width="178" height="178" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/capricorn.png'"> | **Capricorn** | Male |
+| <img src="img/costumes/suits/aquarius-male.avif" width="113" height="186" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/aquarius.png'"> | **Aquarius** | Male |
+| <img src="img/costumes/suits/pisces-male.avif" width="149" height="165" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/pisces.png'"> | **Pisces** | Male |
+| <img src="img/costumes/suits/card-master-trieste-male.avif" width="137" height="148" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/card-master-trieste.png'"> | **Card Master Trieste** | Male |
+| <img src="img/costumes/suits/carnival-party-male.avif" width="141" height="171" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/carnival-party.png'"> | **Carnival Party** | Male |
+| <img src="img/costumes/suits/iron-heart-male.avif" width="139" height="193" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/iron-heart.png'"> | **Iron Heart** | Male |
+| <img src="img/costumes/suits/dinosaur-pajamas-male.avif" width="163" height="197" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dinosaur-pajamas.png'"> | **Dinosaur Pajamas** | Male |
+| <img src="img/costumes/suits/wandering-earth-male.avif" width="106" height="159" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/wandering-earth.png'"> | **Wandering Earth** | Male |
+| <img src="img/costumes/suits/dandy-boy-male.avif" width="94" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dandy-boy.png'"> | **Dandy Boy** | Male |
+| <img src="img/costumes/suits/snow-knight-male.avif" width="114" height="223" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/snow-knight.png'"> | **Snow Knight** | Male |
+| <img src="img/costumes/suits/justin-male.avif" width="105" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/justin.png'"> | **Justin** | Male |
+| <img src="img/costumes/suits/emperor-of-nian-male.avif" width="112" height="160" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/emperor-of-nian.png'"> | **Emperor of Nian** | Male |
+| <img src="img/costumes/suits/xmas-naughty-boy-male.avif" width="114" height="191" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/xmas-naughty-boy.png'"> | **Xmas Naughty Boy** | Male |
+| <img src="img/costumes/suits/robinhood-rat-male.avif" width="134" height="154" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/robinhood-rat.png'"> | **Robinhood Rat** | Male |
+| <img src="img/costumes/suits/carat-love-male.avif" width="149" height="160" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/carat-love.png'"> | **Carat Love** | Male |
+| <img src="img/costumes/suits/dreamy-dancer-male.avif" width="120" height="145" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dreamy-dancer.png'"> | **Dreamy Dancer** | Male |
+| <img src="img/costumes/suits/imperial-marshal-male.avif" width="204" height="148" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/imperial-marshal.png'"> | **Imperial Marshal** | Male |
+| <img src="img/costumes/suits/guardian-of-bullets-male.avif" width="110" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/guardian-of-bullets.png'"> | **Guardian of Bullets** | Male |
+| <img src="img/costumes/suits/deep-sea-adventure-male.avif" width="96" height="149" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/deep-sea-adventure.png'"> | **Deep Sea Adventure** | Male |
+| <img src="img/costumes/suits/p-e-teacher-male.avif" width="102" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/p-e-teacher.png'"> | **P.E. teacher** | Male |
+| <img src="img/costumes/suits/wonderful-band-male.avif" width="85" height="150" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/wonderful-band.png'"> | **Wonderful Band** | Male |
+| <img src="img/costumes/suits/ghost-of-guns-male.avif" width="96" height="143" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/ghost-of-guns.png'"> | **Ghost of Guns** | Male |
+| <img src="img/costumes/suits/weapon-dancer-male.avif" width="234" height="191" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/weapon-dancer.png'"> | **Weapon Dancer** | Male |
+| <img src="img/costumes/suits/naughty-ox-male.avif" width="133" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/naughty-ox.png'"> | **Naughty Ox** | Male |
+| <img src="img/costumes/suits/wood-spirit-prince-male.avif" width="133" height="143" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/wood-spirit-prince.png'"> | **Wood Spirit Prince** | Male |
+| <img src="img/costumes/suits/land-warfare-male.avif" width="104" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/land-warfare.png'"> | **Land warfare** | Male |
+| <img src="img/costumes/suits/lord-dragon-dance-male.avif" width="112" height="151" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/lord-dragon-dance.png'"> | **Lord Dragon Dance** | Male |
+| <img src="img/costumes/suits/school-deacon-male.avif" width="100" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/school-deacon.png'"> | **School Deacon** | Male |
+| <img src="img/costumes/suits/x-dimension-warrior-male.avif" width="240" height="230" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/x-dimension-warrior.png'"> | **X-Dimension Warrior** | Male |
+| <img src="img/costumes/suits/mr-kiasu-male.avif" width="73" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/mr-kiasu.png'"> | **Mr.Kiasu** | Male |
+| <img src="img/costumes/suits/pop-boy-male.avif" width="211" height="230" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/pop-boy.png'"> | **Pop Boy** | Male |
+| <img src="img/costumes/suits/starry-prince-male.avif" width="114" height="153" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/starry-prince.png'"> | **Starry Prince** | Male |
+| <img src="img/costumes/suits/shadow-swordsman-male.avif" width="127" height="150" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/shadow-swordsman.png'"> | **Shadow Swordsman** | Male |
+| <img src="img/costumes/suits/candy-tales-male.avif" width="215" height="145" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/candy-tales.png'"> | **Candy Tales** | Male |
+| <img src="img/costumes/suits/fairy-world-male.avif" width="124" height="142" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/fairy-world.png'"> | **Fairy World** | Male |
+| <img src="img/costumes/suits/quantum-samurai-male.avif" width="133" height="145" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quantum-samurai.png'"> | **Quantum Samurai** | Male |
+| <img src="img/costumes/suits/peace-guardian-male.avif" width="106" height="144" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/peace-guardian.png'"> | **Peace Guardian** | Male |
+| <img src="img/costumes/suits/school-of-superpower-male.avif" width="113" height="148" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/school-of-superpower.png'"> | **School of Superpower** | Male |
+| <img src="img/costumes/suits/starry-envoy-male.avif" width="114" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/starry-envoy.png'"> | **Starry Envoy** | Male |
+| <img src="img/costumes/suits/qixi-love-male.avif" width="130" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/qixi-love.png'"> | **Qixi Love** | Male |
+| <img src="img/costumes/suits/new-year-bunny-male.avif" width="163" height="149" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/new-year-bunny.png'"> | **New Year, Bunny!** | Male |
+| <img src="img/costumes/suits/glorious-dragon-male.avif" width="137" height="145" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/glorious-dragon.png'"> | **Glorious Dragon** | Male |
+| <img src="img/costumes/suits/shining-xuanwu-male.avif" width="130" height="149" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/shining-xuanwu.png'"> | **Shining Xuanwu** | Male |
+| <img src="img/costumes/suits/fantasy-loong-male.avif" width="110" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/fantasy-loong.png'"> | **Fantasy Loong** | Male |
+| <img src="img/costumes/suits/the-great-sage-male.avif" width="198" height="173" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/the-great-sage.png'"> | **The Great Sage** | Male |
+| <img src="img/costumes/suits/thriving-male.avif" width="123" height="137" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/thriving.png'"> | **Thriving** | Male |
+| <img src="img/costumes/suits/twilight-spy-male.avif" width="78" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/twilight-spy.png'"> | **Twilight Spy** | Male |
+| <img src="img/costumes/suits/ghost-swordsman-male.avif" width="133" height="136" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/ghost-swordsman.png'"> | **Ghost Swordsman** | Male |
+| <img src="img/costumes/suits/quirky-elf-male.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf.png'"> | **Quirky Elf** | Male |
+| <img src="img/costumes/suits/capybara-male.avif" width="102" height="155" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/capybara.png'"> | **Capybara** | Male |
+| <img src="img/costumes/suits/snake-spirit-male.avif" width="106" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/snake-spirit.png'"> | **Snake Spirit** | Male |
+| <img src="img/costumes/suits/quirky-elf-brown-male.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-brown.png'"> | **Quirky Elf (Brown)** | Male |
+| <img src="img/costumes/suits/quirky-elf-yellow-male.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-yellow.png'"> | **Quirky Elf (Yellow)** | Male |
+| <img src="img/costumes/suits/quirky-elf-blue-male.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-blue.png'"> | **Quirky Elf (Blue)** | Male |
+| <img src="img/costumes/suits/quirky-elf-green-male.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-green.png'"> | **Quirky Elf (Green)** | Male |
+| <img src="img/costumes/suits/quirky-elf-pink-male.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-pink.png'"> | **Quirky Elf (Pink)** | Male |
+| <img src="img/costumes/suits/quirky-elf-ultra-male.avif" width="128" height="139" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-ultra.png'"> | **Quirky Elf (Ultra)** | Male |
+| <img src="img/costumes/suits/nezha-male.avif" width="138" height="152" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/nezha.png'"> | **Nezha** | Male |
+| <img src="img/costumes/suits/sea-salt-easter-male.avif" width="112" height="134" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sea-salt-easter.png'"> | **Sea Salt Easter** | Male |
+| <img src="img/costumes/suits/upper-moons-iii-male.avif" width="160" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/upper-moons-iii.png'"> | **Upper Moons III** | Male |
+| <img src="img/costumes/suits/groom-set-male.avif" width="156" height="182" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/groom-set.png'"> | **Groom Set** | Male |
+| <img src="img/costumes/suits/sincere-love-male.avif" width="158" height="200" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sincere-love.png'"> | **Sincere Love** | Male |
+| <img src="img/costumes/suits/the-dragon-s-guardian-male.avif" width="99" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/the-dragon-s-guardian.png'"> | **The Dragon's Guardian** | Male |
+| <img src="img/costumes/suits/noon-horse-manifest-male.avif" width="120" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/noon-horse-manifest.png'"> | **Noon Horse Manifest** | Male |
+| <img src="img/costumes/suits/chippy-male.avif" width="213" height="172" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/chippy.png'"> | **Chippy** | Male |
+| <img src="img/costumes/suits/nick-male.avif" width="91" height="142" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/nick.png'"> | **Nick** | Male |
+| <img src="img/costumes/suits/lost-forest-female.avif" width="139" height="151" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/lost-forest.png'"> | **Lost Forest** | Female |
+| <img src="img/costumes/suits/monkey-king-female.avif" width="185" height="173" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/monkey-king.png'"> | **Monkey King** | Female |
+| <img src="img/costumes/suits/baymax-female.avif" width="105" height="118" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/baymax.png'"> | **Baymax** | Female |
+| <img src="img/costumes/suits/new-year-set-female.avif" width="111" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/new-year-set-2.png'"> | **New Year Set** | Female |
+| <img src="img/costumes/suits/aries-female.avif" width="141" height="153" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/aries-2.png'"> | **Aries** | Female |
+| <img src="img/costumes/suits/taurean-female.avif" width="209" height="209" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/taurean-2.png'"> | **Taurean** | Female |
+| <img src="img/costumes/suits/gemini-female.avif" width="150" height="145" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/gemini-2.png'"> | **Gemini** | Female |
+| <img src="img/costumes/suits/cancer-female.avif" width="167" height="167" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/cancer-2.png'"> | **Cancer** | Female |
+| <img src="img/costumes/suits/leo-female.avif" width="173" height="170" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/leo-2.png'"> | **Leo** | Female |
+| <img src="img/costumes/suits/chang-e-female.avif" width="143" height="163" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/chang-e.png'"> | **Chang'e** | Female |
+| <img src="img/costumes/suits/libra-female.avif" width="164" height="164" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/libra-2.png'"> | **Libra** | Female |
+| <img src="img/costumes/suits/scorpio-female.avif" width="139" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/scorpio-2.png'"> | **Scorpio** | Female |
+| <img src="img/costumes/suits/sagittarius-female.avif" width="145" height="172" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sagittarius-2.png'"> | **Sagittarius** | Female |
+| <img src="img/costumes/suits/survival-female.avif" width="96" height="144" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/survival.png'"> | **Survival** | Female |
+| <img src="img/costumes/suits/sailor-maiden-female.avif" width="206" height="166" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sailor-maiden.png'"> | **Sailor Maiden** | Female |
+| <img src="img/costumes/suits/capricorn-female.avif" width="120" height="158" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/capricorn-2.png'"> | **Capricorn** | Female |
+| <img src="img/costumes/suits/aquarius-female.avif" width="137" height="142" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/aquarius-2.png'"> | **Aquarius** | Female |
+| <img src="img/costumes/suits/pisces-female.avif" width="153" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/pisces-2.png'"> | **Pisces** | Female |
+| <img src="img/costumes/suits/virtuoso-amanda-female.avif" width="121" height="148" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/virtuoso-amanda.png'"> | **Virtuoso Amanda** | Female |
+| <img src="img/costumes/suits/carnival-party-female.avif" width="124" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/carnival-party-2.png'"> | **Carnival Party** | Female |
+| <img src="img/costumes/suits/iron-heart-female.avif" width="154" height="182" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/iron-heart-2.png'"> | **Iron Heart** | Female |
+| <img src="img/costumes/suits/dinosaur-pajamas-female.avif" width="177" height="196" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dinosaur-pajamas-2.png'"> | **Dinosaur Pajamas** | Female |
+| <img src="img/costumes/suits/wandering-earth-female.avif" width="106" height="159" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/wandering-earth.png'"> | **Wandering Earth** | Female |
+| <img src="img/costumes/suits/slim-girl-female.avif" width="141" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/slim-girl.png'"> | **Slim Girl** | Female |
+| <img src="img/costumes/suits/snow-queen-female.avif" width="132" height="155" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/snow-queen.png'"> | **Snow Queen** | Female |
+| <img src="img/costumes/suits/amee-female.avif" width="210" height="141" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/amee.png'"> | **Amee** | Female |
+| <img src="img/costumes/suits/queen-of-nian-female.avif" width="128" height="137" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/queen-of-nian.png'"> | **Queen of Nian** | Female |
+| <img src="img/costumes/suits/xmas-naughty-girl-female.avif" width="114" height="191" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/xmas-naughty-boy.png'"> | **Xmas Naughty Girl** | Female |
+| <img src="img/costumes/suits/robynhood-rat-female.avif" width="108" height="144" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/robynhood-rat.png'"> | **Robynhood Rat** | Female |
+| <img src="img/costumes/suits/carat-love-female.avif" width="149" height="162" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/carat-love-2.png'"> | **Carat Love** | Female |
+| <img src="img/costumes/suits/dancer-female.avif" width="102" height="144" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dancer.png'"> | **Dancer** | Female |
+| <img src="img/costumes/suits/triumphant-princess-female.avif" width="111" height="146" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/triumphant-princess.png'"> | **Triumphant Princess** | Female |
+| <img src="img/costumes/suits/supergirl-female.avif" width="105" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/supergirl.png'"> | **Supergirl** | Female |
+| <img src="img/costumes/suits/deep-sea-adventure-female.avif" width="99" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/deep-sea-adventure-2.png'"> | **Deep Sea Adventure** | Female |
+| <img src="img/costumes/suits/math-teacher-female.avif" width="115" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/math-teacher.png'"> | **Math teacher** | Female |
+| <img src="img/costumes/suits/wonderful-band-female.avif" width="86" height="151" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/wonderful-band-2.png'"> | **Wonderful Band** | Female |
+| <img src="img/costumes/suits/ghost-of-guns-female.avif" width="96" height="143" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/ghost-of-guns-2.png'"> | **Ghost of Guns** | Female |
+| <img src="img/costumes/suits/weapon-dancer-female.avif" width="122" height="135" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/weapon-dancer-2.png'"> | **Weapon Dancer** | Female |
+| <img src="img/costumes/suits/cute-maiden-ox-female.avif" width="120" height="144" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/cute-maiden-ox.png'"> | **Cute Maiden Ox** | Female |
+| <img src="img/costumes/suits/flower-queen-female.avif" width="99" height="151" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/flower-queen.png'"> | **Flower Queen** | Female |
+| <img src="img/costumes/suits/sonorous-female-soldier-female.avif" width="103" height="139" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sonorous-female-soldier.png'"> | **Sonorous female soldier** | Female |
+| <img src="img/costumes/suits/string-dancing-girl-female.avif" width="121" height="136" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/string-dancing-girl.png'"> | **String Dancing Girl** | Female |
+| <img src="img/costumes/suits/crimson-maid-female.avif" width="90" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/crimson-maid.png'"> | **Crimson Maid** | Female |
+| <img src="img/costumes/suits/dimension-witch-female.avif" width="141" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dimension-witch.png'"> | **Dimension Witch** | Female |
+| <img src="img/costumes/suits/mr-kiasu-female.avif" width="73" height="140" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/mr-kiasu.png'"> | **Mr.Kiasu** | Female |
+| <img src="img/costumes/suits/dj-electro-girl-female.avif" width="207" height="230" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dj-electro-girl.png'"> | **Dj-Electro Girl** | Female |
+| <img src="img/costumes/suits/rainbow-girl-female.avif" width="104" height="154" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/rainbow-girl.png'"> | **Rainbow Girl** | Female |
+| <img src="img/costumes/suits/rose-maiden-female.avif" width="102" height="152" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/rose-maiden.png'"> | **Rose Maiden** | Female |
+| <img src="img/costumes/suits/candy-tales-female.avif" width="217" height="141" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/candy-tales-2.png'"> | **Candy Tales** | Female |
+| <img src="img/costumes/suits/fairy-world-female.avif" width="138" height="136" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/fairy-world-2.png'"> | **Fairy World** | Female |
+| <img src="img/costumes/suits/quantum-samurai-female.avif" width="154" height="183" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quantum-samurai-2.png'"> | **Quantum Samurai** | Female |
+| <img src="img/costumes/suits/peace-guardian-female.avif" width="122" height="147" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/peace-guardian-2.png'"> | **Peace Guardian** | Female |
+| <img src="img/costumes/suits/school-of-superpower-female.avif" width="94" height="139" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/school-of-superpower-2.png'"> | **School of Superpower** | Female |
+| <img src="img/costumes/suits/starry-envoy-female.avif" width="105" height="142" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/starry-envoy-2.png'"> | **Starry Envoy** | Female |
+| <img src="img/costumes/suits/qixi-love-female.avif" width="131" height="134" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/qixi-love-2.png'"> | **Qixi Love** | Female |
+| <img src="img/costumes/suits/new-year-bunny-female.avif" width="106" height="153" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/new-year-bunny-2.png'"> | **New Year, Bunny!** | Female |
+| <img src="img/costumes/suits/glorious-rosefinch-female.avif" width="160" height="149" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/glorious-rosefinch.png'"> | **Glorious Rosefinch** | Female |
+| <img src="img/costumes/suits/shining-tiger-female.avif" width="100" height="145" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/shining-tiger.png'"> | **Shining Tiger** | Female |
+| <img src="img/costumes/suits/fantasy-loong-female.avif" width="127" height="151" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/fantasy-loong-2.png'"> | **Fantasy Loong** | Female |
+| <img src="img/costumes/suits/the-great-sage-female.avif" width="198" height="173" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/the-great-sage.png'"> | **The Great Sage** | Female |
+| <img src="img/costumes/suits/prosperity-female.avif" width="113" height="132" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/prosperity.png'"> | **Prosperity** | Female |
+| <img src="img/costumes/suits/thorn-assassin-female.avif" width="99" height="139" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/thorn-assassin.png'"> | **Thorn Assassin** | Female |
+| <img src="img/costumes/suits/shrouded-girl-female.avif" width="121" height="131" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/shrouded-girl.png'"> | **Shrouded Girl** | Female |
+| <img src="img/costumes/suits/quirky-elf-female.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf.png'"> | **Quirky Elf** | Female |
+| <img src="img/costumes/suits/capybara-female.avif" width="107" height="153" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/capybara-2.png'"> | **Capybara** | Female |
+| <img src="img/costumes/suits/snake-spirit-female.avif" width="116" height="141" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/snake-spirit-2.png'"> | **Snake Spirit** | Female |
+| <img src="img/costumes/suits/quirky-elf-brown-female.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-brown.png'"> | **Quirky Elf (Brown)** | Female |
+| <img src="img/costumes/suits/quirky-elf-yellow-female.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-yellow.png'"> | **Quirky Elf (Yellow)** | Female |
+| <img src="img/costumes/suits/quirky-elf-blue-female.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-blue.png'"> | **Quirky Elf (Blue)** | Female |
+| <img src="img/costumes/suits/quirky-elf-green-female.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-green.png'"> | **Quirky Elf (Green)** | Female |
+| <img src="img/costumes/suits/quirky-elf-pink-female.avif" width="110" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-pink.png'"> | **Quirky Elf (Pink)** | Female |
+| <img src="img/costumes/suits/quirky-elf-ultra-female.avif" width="128" height="139" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/quirky-elf-ultra.png'"> | **Quirky Elf (Ultra)** | Female |
+| <img src="img/costumes/suits/nezha-female.avif" width="138" height="152" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/nezha.png'"> | **Nezha** | Female |
+| <img src="img/costumes/suits/sakura-easter-female.avif" width="101" height="143" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sakura-easter.png'"> | **Sakura Easter** | Female |
+| <img src="img/costumes/suits/oni-lord-female.avif" width="98" height="132" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/oni-lord.png'"> | **Oni Lord** | Female |
+| <img src="img/costumes/suits/bride-set-female.avif" width="165" height="164" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/bride-set.png'"> | **Bride Set** | Female |
+| <img src="img/costumes/suits/spiderman-female.avif" width="77" height="230" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/spiderman.png'"> | **Spiderman** | Female |
+| <img src="img/costumes/suits/dancer-female-2.avif" width="132" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/dancer-2.png'"> | **Dancer** | Female |
+| <img src="img/costumes/suits/virgo-female.avif" width="157" height="160" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/virgo-2.png'"> | **Virgo** | Female |
+| <img src="img/costumes/suits/sincere-love-female.avif" width="147" height="178" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/sincere-love-2.png'"> | **Sincere Love** | Female |
+| <img src="img/costumes/suits/phoenix-s-ballad-female.avif" width="83" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/phoenix-s-ballad.png'"> | **Phoenix's Ballad** | Female |
+| <img src="img/costumes/suits/noon-horse-gallops-in-fragrance-female.avif" width="129" height="138" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/noon-horse-gallops-in-fragrance.png'"> | **Noon Horse Gallops in Fragrance** | Female |
+| <img src="img/costumes/suits/chippy-female.avif" width="213" height="172" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/chippy.png'"> | **Chippy** | Female |
+| <img src="img/costumes/suits/judy-female.avif" width="86" height="170" loading="lazy" alt="" onerror="this.onerror=null;this.removeAttribute('height');this.width=64;this.src='img/costumes/judy.png'"> | **Judy** | Female |
 
 <a id="clothes"></a>
 ## Clothes (92)

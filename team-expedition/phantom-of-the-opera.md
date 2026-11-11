@@ -223,6 +223,6 @@ In celebration of the wine fest, the warriors have gathered in this pirate-theme
 | <img src="../img/items/apt-pill.png" width="24" alt=""> APT Pill | 2 - 3 | 4.76% |
 | <img src="../img/items/advanced-monster-crystal.png" width="24" alt=""> Advanced Monster Crystal | 1 - 3 | 4.76% |
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 2 - 4 | 4.76% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 4.76% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 4.76% |
 | <img src="../img/items/magic-adhesive.png" width="24" alt=""> Magic Adhesive | 1 - 2 | 5.72% |
 

@@ -227,7 +227,7 @@ There was an ancient castle in the vast Desert Ruins, and the mysterious statues
 | <img src="../img/items/potential-gem.png" width="24" alt=""> Potential Gem | 2 - 3 | 3.65% |
 | <img src="../img/items/clear-ticket.png" width="24" alt=""> Clear Ticket | 1 - 2 | 4.10% |
 | <img src="../img/items/magic-stone-iv.png" width="24" alt=""> Magic Stone IV | 2 | 4.56% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 2 | 4.56% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 2 | 4.56% |
 | <img src="../img/items/hammer-of-artificer.png" width="24" alt=""> Hammer of Artificer | 1 - 2 | 4.56% |
 | <img src="../img/items/magic-adhesive.png" width="24" alt=""> Magic Adhesive | 1 - 3 | 4.56% |
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 2 - 4 | 4.56% |

@@ -64,7 +64,7 @@ Dark forces kept invading the Darkest Realm
 | <img src="../img/items/seal-gem.png" width="24" alt=""> Seal Gem | 2 - 3 | 3.49% |
 | <img src="../img/items/silver.png" width="24" alt=""> Silver | 1 - 2 | 3.49% |
 | <img src="../img/items/marine-coral.png" width="24" alt=""> Marine Coral | 2 - 4 | 4.36% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 4 | 4.36% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 4 | 4.36% |
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 1 - 3 | 4.36% |
 
 ### Shadowy Domain 2
@@ -116,7 +116,7 @@ Dark forces kept invading the Darkest Realm
 | <img src="../img/items/seal-gem.png" width="24" alt=""> Seal Gem | 2 - 3 | 3.48% |
 | <img src="../img/items/silver.png" width="24" alt=""> Silver | 1 - 2 | 3.48% |
 | <img src="../img/items/marine-coral.png" width="24" alt=""> Marine Coral | 2 - 4 | 4.34% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 4 | 4.34% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 4 | 4.34% |
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 1 - 3 | 4.34% |
 
 ## Normal
@@ -151,7 +151,7 @@ Dark forces kept invading the Darkest Realm
 | Item | Number | Probability |
 |---|---|---|
 | <img src="../img/items/inscr-crystal-iv.png" width="24" alt=""> Inscr. Crystal IV | 1 | 0.36% |
-| <img src="../img/items/raul-crystal-lv-1.png" width="24" alt=""> Booster | 1 | 0.62% |
+| <img src="../img/items/booster.png" width="24" alt=""> Booster | 1 | 0.62% |
 | <img src="../img/items/primal-force.png" width="24" alt=""> Primal Force | 1 | 0.71% |
 | <img src="../img/items/epic-code-case.png" width="24" alt=""> Epic Code Case | 1 | 0.89% |
 | <img src="../img/items/glory-bead.png" width="24" alt=""> Glory Bead | 1 | 0.89% |
@@ -228,7 +228,7 @@ Dark forces kept invading the Darkest Realm
 | <img src="../img/items/immortal-ring-blueprint.png" width="24" alt=""> Immortal Ring Blueprint | 1 | 0.10% |
 | <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> Wraith: Skeleton Scale | 1 | 0.10% |
 | <img src="../img/items/inscr-crystal-v.png" width="24" alt=""> Inscr. Crystal V | 1 | 0.19% |
-| <img src="../img/ranks/colonel.png" width="24" alt=""> Lost Mech Helmet | 1 | 0.48% |
+| <img src="../img/items/lost-mech-helmet.png" width="24" alt=""> Lost Mech Helmet | 1 | 0.48% |
 | <img src="../img/items/legendary-monster-crystal.png" width="24" alt=""> Legendary Monster Crystal | 1 | 0.48% |
 | <img src="../img/items/primal-force.png" width="24" alt=""> Primal Force | 1 | 0.77% |
 | <img src="../img/items/legend-code-case.png" width="24" alt=""> Legend Code Case | 1 | 0.96% |
@@ -264,7 +264,7 @@ Dark forces kept invading the Darkest Realm
 | <img src="../img/items/magic-stone-iv.png" width="24" alt=""> Magic Stone IV | 2 - 3 | 3.84% |
 | <img src="../img/items/refine-chest.png" width="24" alt=""> Recast stone Pack | 1 | 3.84% |
 | <img src="../img/items/advanced-monster-crystal.png" width="24" alt=""> Advanced Monster Crystal | 1 - 3 | 3.84% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 3 | 3.84% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 3 | 3.84% |
 | <img src="../img/items/crystal-identification-scroll.png" width="24" alt=""> Crystal Identification Scroll | 1 - 3 | 3.84% |
 | <img src="../img/items/potential-gem.png" width="24" alt=""> Potential Gem | 2 - 3 | 3.84% |
 | <img src="../img/items/safe-landing-chapter-shard.png" width="24" alt=""> Safe Landing Chapter Shard | 1 - 2 | 3.84% |

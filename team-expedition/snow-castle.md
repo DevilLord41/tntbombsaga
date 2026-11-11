@@ -190,8 +190,8 @@ title: "Snow Castle"
 | <img src="../img/mounts/crystal-pioneer.png" width="24" alt=""> Crystal Pioneer | 1 | 0.10% |
 | <img src="../img/items/immortal-pendant-blueprint.png" width="24" alt=""> Immortal Pendant Blueprint | 1 | 0.10% |
 | <img src="../img/items/inscr-crystal-iv.png" width="24" alt=""> Inscr. Crystal IV | 1 | 0.20% |
-| <img src="../img/ranks/lt-colonel.png" width="24" alt=""> Teck.1 Energy Reactor | 1 | 0.30% |
-| <img src="../img/items/raul-crystal-lv-2.png" width="24" alt=""> Energy Reactor | 1 | 0.51% |
+| <img src="../img/items/teck-1-energy-reactor.png" width="24" alt=""> Teck.1 Energy Reactor | 1 | 0.30% |
+| <img src="../img/items/energy-reactor.png" width="24" alt=""> Energy Reactor | 1 | 0.51% |
 | <img src="../img/items/tusk-collar.png" width="24" alt=""> Tusk Collar | 1 | 0.61% |
 | <img src="../img/items/primal-force.png" width="24" alt=""> Primal Force | 1 | 0.61% |
 | <img src="../img/items/omni-skin-shard.png" width="24" alt=""> Omni Skin Shard | 1 | 0.71% |

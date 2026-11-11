@@ -118,7 +118,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 
 | Item | Number | Probability |
 |---|---|---|
-| <img src="../img/ranks/lt-colonel.png" width="24" alt=""> Teck.1 Energy Reactor | 1 | 0.36% |
+| <img src="../img/items/teck-1-energy-reactor.png" width="24" alt=""> Teck.1 Energy Reactor | 1 | 0.36% |
 | <img src="../img/items/inscr-crystal-vi.png" width="24" alt=""> Inscr. Crystal VI | 1 | 0.36% |
 | <img src="../img/items/balrog-shard.png" width="24" alt=""> Balrog Shard | 1 | 0.44% |
 | <img src="../img/items/primal-force.png" width="24" alt=""> Primal Force | 1 | 0.71% |
@@ -201,7 +201,7 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 | <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> Wraith: Skeleton Scale | 1 | 0.10% |
 | <img src="../img/items/inscr-crystal-vi.png" width="24" alt=""> Inscr. Crystal VI | 1 | 0.30% |
 | <img src="../img/items/dmg-seal-shard.png" width="24" alt=""> DMG- Seal Shard | 1 | 0.30% |
-| <img src="../img/ranks/colonel.png" width="24" alt=""> Lost Mech Helmet | 1 | 0.50% |
+| <img src="../img/items/lost-mech-helmet.png" width="24" alt=""> Lost Mech Helmet | 1 | 0.50% |
 | <img src="../img/items/warcry.png" width="24" alt=""> Warcry | 1 | 0.50% |
 | <img src="../img/items/legendary-monster-crystal.png" width="24" alt=""> Legendary Monster Crystal | 1 | 0.50% |
 | <img src="../img/items/onslaught-seal-shard.png" width="24" alt=""> Onslaught Seal Shard | 1 | 0.50% |
@@ -244,5 +244,5 @@ Dangers were everywhere in Lost Battlefield. Be very careful!
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 1 - 2 | 3.97% |
 | <img src="../img/items/potential-gem.png" width="24" alt=""> Potential Gem | 1 - 3 | 3.97% |
 | <img src="../img/items/clear-ticket.png" width="24" alt=""> Clear Ticket | 2 - 3 | 4.46% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 5.38% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 5.38% |
 

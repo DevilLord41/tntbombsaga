@@ -212,7 +212,7 @@ title: "Lost Forest"
 | <img src="../img/items/advanced-monster-crystal.png" width="24" alt=""> Advanced Monster Crystal | 1 - 2 | 2.78% |
 | <img src="../img/items/splendid-medal.png" width="24" alt=""> Splendid Medal | 1 | 2.78% |
 | <img src="../img/items/magic-stone-iv.png" width="24" alt=""> Magic Stone IV | 1 - 2 | 3.71% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 3 | 3.71% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 2 - 3 | 3.71% |
 | <img src="../img/items/potential-needle.png" width="24" alt=""> Potential Needle | 2 - 3 | 3.71% |
 | <img src="../img/items/potential-gem.png" width="24" alt=""> Potential Gem | 2 - 3 | 3.71% |
 | <img src="../img/items/skill-book-iv.png" width="24" alt=""> Skill Book IV | 1 - 2 | 3.71% |

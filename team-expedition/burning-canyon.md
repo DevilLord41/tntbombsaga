@@ -152,7 +152,7 @@ Savage roars suddenly sounded in the canyon, beware of the Orcs
 | <img src="../img/items/advanced-monster-crystal.png" width="24" alt=""> Advanced Monster Crystal | 2 - 3 | 3.57% |
 | <img src="../img/items/magic-adhesive.png" width="24" alt=""> Magic Adhesive | 1 - 2 | 3.57% |
 | <img src="../img/items/apt-pill.png" width="24" alt=""> APT Pill | 2 - 3 | 4.46% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 2 | 4.46% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 2 | 4.46% |
 | <img src="../img/items/crystal-identification-scroll.png" width="24" alt=""> Crystal Identification Scroll | 1 - 2 | 4.46% |
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 2 - 3 | 4.46% |
 | <img src="../img/items/seal-gem.png" width="24" alt=""> Seal Gem | 1 - 3 | 6.24% |
@@ -189,7 +189,7 @@ Savage roars suddenly sounded in the canyon, beware of the Orcs
 | Item | Number | Probability |
 |---|---|---|
 | <img src="../img/items/immortal-wings-blueprint.png" width="24" alt=""> Immortal Wings Blueprint | 1 | 0.10% |
-| <img src="../img/ranks/lt-colonel.png" width="24" alt=""> Teck.1 Energy Reactor | 1 | 0.31% |
+| <img src="../img/items/teck-1-energy-reactor.png" width="24" alt=""> Teck.1 Energy Reactor | 1 | 0.31% |
 | <img src="../img/items/inscr-crystal-iv.png" width="24" alt=""> Inscr. Crystal IV | 1 | 0.52% |
 | <img src="../img/items/tusk-collar.png" width="24" alt=""> Tusk Collar | 1 | 0.52% |
 | <img src="../img/items/primal-force.png" width="24" alt=""> Primal Force | 1 | 0.52% |

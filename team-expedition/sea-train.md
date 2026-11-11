@@ -154,7 +154,7 @@ A ghost train suddenly appeared in the depths of Douhai
 | <img src="../img/items/earth-materia-essence.png" width="24" alt=""> Earth Materia Essence | 2 - 3 | 2.60% |
 | <img src="../img/items/basic-monster-crystal.png" width="24" alt=""> Basic Monster Crystal | 2 - 5 | 2.60% |
 | <img src="../img/items/advanced-monster-crystal.png" width="24" alt=""> Advanced Monster Crystal | 2 - 3 | 2.60% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 2.60% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 2.60% |
 | <img src="../img/items/lv-2-orb-bag.png" width="24" alt=""> Lv.2 Orb Bag | 1 - 3 | 2.60% |
 | <img src="../img/items/red-magic-stone.png" width="24" alt=""> Red Magic Stone | 1 | 2.60% |
 | <img src="../img/items/hammer-of-artificer.png" width="24" alt=""> Hammer of Artificer | 1 - 3 | 2.60% |
@@ -200,7 +200,7 @@ A ghost train suddenly appeared in the depths of Douhai
 | <img src="../img/items/immortality-blueprint.png" width="24" alt=""> Immortality Blueprint | 1 | 0.10% |
 | <img src="../img/items/wraith-skeleton-scale.png" width="24" alt=""> Wraith: Skeleton Scale | 1 | 0.10% |
 | <img src="../img/items/inscr-crystal-vi.png" width="24" alt=""> Inscr. Crystal VI | 1 | 0.19% |
-| <img src="../img/ranks/colonel.png" width="24" alt=""> Lost Mech Helmet | 1 | 0.48% |
+| <img src="../img/items/lost-mech-helmet.png" width="24" alt=""> Lost Mech Helmet | 1 | 0.48% |
 | <img src="../img/items/fang-bracer.png" width="24" alt=""> Fang Bracer | 1 | 0.48% |
 | <img src="../img/items/legendary-monster-crystal.png" width="24" alt=""> Legendary Monster Crystal | 1 | 0.76% |
 | <img src="../img/items/troll-sting-blueprint.png" width="24" alt=""> Troll Sting Blueprint | 1 - 2 | 0.95% |
@@ -240,7 +240,7 @@ A ghost train suddenly appeared in the depths of Douhai
 | <img src="../img/items/refine-chest.png" width="24" alt=""> Recast stone Pack | 1 | 3.82% |
 | <img src="../img/items/advanced-monster-crystal.png" width="24" alt=""> Advanced Monster Crystal | 2 - 3 | 3.82% |
 | <img src="../img/items/magic-adhesive.png" width="24" alt=""> Magic Adhesive | 1 - 3 | 3.82% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 3.82% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 3.82% |
 | <img src="../img/items/potential-gem.png" width="24" alt=""> Potential Gem | 1 - 3 | 3.82% |
 | <img src="../img/items/clear-ticket.png" width="24" alt=""> Clear Ticket | 2 - 3 | 4.29% |
 | <img src="../img/items/sand-of-time.png" width="24" alt=""> Sand of time | 2 - 4 | 4.77% |

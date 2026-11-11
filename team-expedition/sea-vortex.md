@@ -205,7 +205,7 @@ A mysterious whirlpool has suddenly appeared at sea, cutting off the sailing rou
 | <img src="../img/items/upgrade-stone.png" width="24" alt=""> Upgrade Stone | 1 - 2 | 5.74% |
 | <img src="../img/items/holy-hammer-shard.png" width="24" alt=""> Holy Hammer Shard | 2 | 5.74% |
 | <img src="../img/items/lv-2-orb-bag.png" width="24" alt=""> Lv.2 Orb Bag | 1 - 2 | 5.74% |
-| <img src="../img/items/alloy-helmet.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 5.74% |
+| <img src="../img/items/raul-crystal-lv-3.png" width="24" alt=""> Raul Crystal Lv.3 | 1 - 3 | 5.74% |
 | <img src="../img/items/rider-tome.png" width="24" alt=""> Rider Tome | 1 - 3 | 6.32% |
 | <img src="../img/items/down-plume.png" width="24" alt=""> Down Plume | 2 - 3 | 6.89% |
 

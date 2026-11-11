@@ -75,6 +75,9 @@ details ul { margin: 6px 0 10px; }
   .lb-table { display: table; width: 100%; margin-top: 12px; }
   .lb-table td:first-child, .lb-table th:first-child { width: 3.5em; text-align: right; }
   .lb-table td:last-child, .lb-table th:last-child { text-align: right; white-space: nowrap; }
+  .lb-delta { font-size: 0.85em; }
+  .lb-delta.up { color: #1a7f37; }
+  .lb-delta.down { color: #cf222e; }
   .lb-pager { display: flex; flex-wrap: wrap; gap: 4px; margin: 12px 0; }
   .lb-pager button { min-width: 34px; padding: 4px 6px; border: 1px solid #d0d7de; border-radius: 6px; background: #f6f8fa; color: inherit; cursor: pointer; }
   .lb-pager button.on { background: #0969da; border-color: #0969da; color: #fff; }

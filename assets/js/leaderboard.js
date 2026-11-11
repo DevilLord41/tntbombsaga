@@ -26,9 +26,14 @@
   function table(list, withGroup) {
     var head = '<th>#</th><th>Player</th><th>Server</th>' + (withGroup ? '<th>Merged servers</th>' : '') + (isRank() ? '<th>Military rank</th>' : '<th>BP</th>');
     return '<table class="lb-table"><thead><tr>' + head + '</tr></thead><tbody>' + list.map(function (r) {
-      var tail = isRank() ? '<td>' + rankCell(r.p) + '</td>' : '<td>' + num(r.p.bp) + '</td>';
+      var tail = isRank() ? '<td>' + rankCell(r.p) + '</td>' : '<td>' + num(r.p.bp) + change(r.p.bpChange) + '</td>';
       return '<tr><td>' + r.n + '</td><td>' + who(r.p) + '</td><td>' + r.p.server + '</td>' + (withGroup ? '<td>' + esc(r.g) + '</td>' : '') + tail + '</tr>';
     }).join('') + '</tbody></table>';
+  }
+  // BP gained or lost since the previous daily update (none for players new to the board).
+  function change(v) {
+    if (typeof v !== 'number' || !v) return '';
+    return ' <span class="lb-delta ' + (v > 0 ? 'up' : 'down') + '">(' + (v > 0 ? '+' : '-') + num(Math.abs(v)) + ')</span>';
   }
 
   function server(d) {

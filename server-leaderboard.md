@@ -13,4 +13,4 @@ The top 100 players of each server by **BP** or by **Military rank**, as the in-
 <p class="lb-status">Loading…</p>
 <div class="lb-out"></div>
 </div>
-<script src="assets/js/leaderboard.js?v=c5e38885"></script>
+<script src="assets/js/leaderboard.js?v=85091d7b"></script>

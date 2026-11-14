@@ -15,4 +15,4 @@ Every server's top 100 in one list, by **BP** or by **Military rank**, highest f
 <div class="lb-out"></div>
 <div class="lb-pager"></div>
 </div>
-<script src="assets/js/leaderboard.js?v=85091d7b"></script>
+<script src="assets/js/leaderboard.js?v=43c56ae6"></script>

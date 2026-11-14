@@ -1,5 +1,5 @@
 (function () {
-  var API = "https://162-35-14-143.sslip.io/api/leaderboard";
+  var API = "https://lookup.beastninjagame.top/api/leaderboard";
   var RANKS = {"0":{"n":"Veteran","i":"img/ranks/veteran.png"},"1":{"n":"Corporal","i":"img/ranks/corporal.png"},"2":{"n":"Sergeant","i":"img/ranks/sergeant.png"},"3":{"n":"Staff Sgt","i":"img/ranks/staff-sgt.png"},"4":{"n":"Master Sgt","i":"img/ranks/master-sgt.png"},"5":{"n":"Second Lt.","i":"img/ranks/second-lt.png"},"6":{"n":"Lieutenant","i":"img/ranks/lieutenant.png"},"7":{"n":"Captain","i":"img/ranks/captain.png"},"8":{"n":"Major","i":"img/ranks/major.png"},"9":{"n":"Lt Colonel","i":"img/ranks/lt-colonel.png"},"10":{"n":"Colonel","i":"img/ranks/colonel.png"},"11":{"n":"Major General","i":"img/ranks/major-general.png"},"12":{"n":"Lt. General","i":"img/ranks/lt-general.png"},"13":{"n":"General","i":"img/ranks/general.png"},"14":{"n":"Marshal","i":"img/ranks/marshal.png"},"15":{"n":"Grand Marshal","i":"img/ranks/grand-marshal.png"},"16":{"n":"The Supreme Marshal","i":"img/ranks/the-supreme-marshal.png"}};
   var root = document.getElementById('lb');
   if (!root) return;
